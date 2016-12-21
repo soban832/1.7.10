@@ -1,0 +1,17 @@
+{
+  "id": "Niall\u0027s Village_-303,65,1221",
+  "name": "Niall\u0027s Village",
+  "icon": "waypoint-normal.png",
+  "x": -303,
+  "y": 65,
+  "z": 1221,
+  "r": 78,
+  "g": 17,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

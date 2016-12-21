@@ -1,0 +1,17 @@
+{
+  "id": "xlostxcog_595,62,1133",
+  "name": "xlostxcog",
+  "icon": "waypoint-normal.png",
+  "x": 595,
+  "y": 62,
+  "z": 1133,
+  "r": 20,
+  "g": 0,
+  "b": 197,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "My Town_190,65,878",
+  "name": "My Town",
+  "icon": "waypoint-normal.png",
+  "x": 190,
+  "y": 65,
+  "z": 878,
+  "r": 57,
+  "g": 247,
+  "b": 152,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

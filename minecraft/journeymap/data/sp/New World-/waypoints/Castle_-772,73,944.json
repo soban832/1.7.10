@@ -1,0 +1,17 @@
+{
+  "id": "Castle_-772,73,944",
+  "name": "Castle",
+  "icon": "waypoint-normal.png",
+  "x": -772,
+  "y": 73,
+  "z": 944,
+  "r": 28,
+  "g": 162,
+  "b": 183,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}

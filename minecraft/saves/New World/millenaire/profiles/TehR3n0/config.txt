@@ -1,0 +1,1 @@
+village_diplomacy=503/73/1854,5

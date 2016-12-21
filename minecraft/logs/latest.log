@@ -1,0 +1,933 @@
+[16:47:53] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:47:53] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:47:53] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:47:53] [main/INFO]: Forge Mod Loader version 7.99.39.1566 for Minecraft 1.7.10 loading
+[16:47:53] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_60, running on Windows 7:amd64:6.1, installed at C:\Program Files\Java\jre1.8.0_60
+[16:47:53] [main/WARN]: The coremod mods.battlegear2.coremod.BattlegearLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:53] [main/INFO]: [AppEng] Core Init
+[16:47:54] [main/WARN]: The coremod codechicken.core.launch.CodeChickenCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:54] [main/INFO]: [codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:436]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
+[16:47:54] [main/WARN]: The coremod cofh.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:54] [main/INFO]: Loading tweaker forestry.shade.javacheck.Java7Checker from forestry_1.7.10-4.2.16.64.jar
+[16:47:54] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/WARN]: The coremod mrtjp.relocation.asm.RelocationPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/WARN]: The coremod invtweaks.forge.asm.FMLPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/WARN]: The coremod mekanism.common.asm.LoadingHook does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/WARN]: The coremod micdoodle8.mods.miccore.MicdoodlePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/INFO]: [micdoodle8.mods.miccore.DepLoader$DepLoadInst:<init>:333]: MicdoodleCore searching for dependencies in mods file: C:\Users\Charles\Desktop\MultiMc\MultiMC\instances\1.7.10\minecraft\mods
+[16:47:55] [main/WARN]: The coremod mrtjp.core.handler.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/WARN]: The coremod atomicstryker.multimine.common.fmlmagic.MMFMLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/WARN]: The coremod codechicken.nei.asm.NEICorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/WARN]: The coremod openblocks.OpenBlocksCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/WARN]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/WARN]: The coremod codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/WARN]: The coremod thaumcraft.codechicken.core.launch.DepLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[16:47:55] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:47:55] [main/INFO]: Loading tweak class name forestry.shade.javacheck.Java7Checker
+[16:47:55] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[16:47:55] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:47:55] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[16:47:55] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[16:47:56] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:getASMTransformerClass:102]: Successfully Registered Transformer
+[16:47:56] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
+[16:47:56] [main/INFO]: [micdoodle8.mods.miccore.MicdoodlePlugin:injectData:295]: [Micdoodle8Core]: Patching game...
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:56] [main/INFO]: [thaumcraft.codechicken.core.launch.DepLoader$DepLoadInst:checkExisting:459]: Warning: version of bspkrsCore, 6.16 is newer than request 6.15
+[16:47:56] [main/INFO]: Calling tweak class forestry.shade.javacheck.Java7Checker
+[16:47:56] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:57] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:57] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[16:47:57] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:57] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:57] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[16:47:57] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[16:47:57] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[16:47:57] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[16:47:57] [main/INFO]: M&B - Patching Class Minecraft (bao)
+[16:47:57] [main/INFO]: 	Patching method Click Mouse in Minecraft
+[16:47:57] [main/INFO]: M&B - Patching Class Minecraft done
+[16:47:57] [main/INFO]: M&B - Patching Class EntityPlayer (yz)
+[16:47:57] [main/INFO]: 	Adding new fields to EntityPlayer
+[16:47:57] [main/INFO]: 	Patching constructor in EntityPlayer
+[16:47:57] [main/INFO]: 	Patching method onUpdate in EntityPlayer
+[16:47:57] [main/INFO]: 	Patching method onItemUseFinish in EntityPlayer
+[16:47:57] [main/INFO]: 	Patching method interactWith in EntityPlayer
+[16:47:57] [main/INFO]: 	Patching method setCurrentItemOrArmor in EntityPlayer
+[16:47:57] [main/INFO]: 	Creating new methods in EntityPlayer
+[16:47:57] [main/INFO]: M&B - Patching Class EntityPlayer done
+[16:47:57] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printResultsAndReset:1777]: Potential problem: Galacticraft did not complete injection of bytecode into: sv (0 / 1)
+[16:47:57] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1848]: Galacticraft successfully injected bytecode into: sa (1 / 1)
+[16:47:57] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1848]: Galacticraft successfully injected bytecode into: bdi (1 / 1)
+[16:47:57] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Transformed
+[16:47:57] [main/INFO]: func_146977_a_original(Lnet/minecraft/inventory/Slot;)V - New Method
+[16:47:57] [main/INFO]: func_146977_a(Lnet/minecraft/inventory/Slot;)V - Invoke Virtual
+[16:47:58] [main/INFO]: Setting user: Soban832
+[16:47:58] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printResultsAndReset:1777]: Potential problem: Galacticraft did not complete injection of bytecode into: xk (0 / 1)
+[16:47:58] [main/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1848]: Galacticraft successfully injected bytecode into: zc (1 / 1)
+[16:47:58] [main/INFO]: Transforming Class [net.minecraft.entity.projectile.EntityArrow], Method [func_70071_h_]
+[16:47:58] [main/INFO]: Transforming net.minecraft.entity.projectile.EntityArrow Finished.
+[16:47:59] [main/INFO]: M&B - Patching Class ItemStack (add)
+[16:47:59] [main/INFO]: M&B - Patching Class ItemStack done
+[16:47:59] [main/INFO]: Transforming Class [net.minecraft.item.ItemStack], Method [func_77953_t]
+[16:47:59] [main/INFO]: Transforming net.minecraft.item.ItemStack Finished.
+[16:47:59] [main/INFO]: InvTweaks: net.minecraft.inventory.Container
+[16:47:59] [main/INFO]: InvTweaks: net.minecraft.inventory.ContainerFurnace
+[16:47:59] [main/INFO]: Transforming Class [net.minecraft.inventory.ContainerFurnace], Method [func_82846_b]
+[16:47:59] [main/INFO]: Transforming net.minecraft.inventory.ContainerFurnace Finished.
+[16:47:59] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:47:59] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1848]: Galacticraft successfully injected bytecode into: net/minecraftforge/client/ForgeHooksClient (1 / 1)
+[16:48:00] [Client thread/INFO]: transforming: net.minecraft.client.renderer.RenderBlocks
+[16:48:00] [Client thread/INFO]: blm net.minecraft.client.renderer.RenderBlocks b (Laji;III)Z
+[16:48:00] [Client thread/INFO]: [cpw.mods.fml.client.SplashProgress:start:188]: ---- Minecraft Crash Report ----
+// I blame Dinnerbone.
+
+Time: 12/21/16 4:48 PM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.8.0_60, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 3106145840 bytes (2962 MB) / 4116185088 bytes (3925 MB) up to 7635730432 bytes (7282 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms4096m -Xmx8192m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.5.0 NVIDIA 368.81' Renderer: 'GeForce GTX 980/PCIe/SSE2'
+[16:48:00] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[16:48:00] [Client thread/INFO]: MinecraftForge v10.13.4.1566 Initialized
+[16:48:00] [Client thread/INFO]: Replaced 183 ore recipies
+[16:48:00] [Client thread/INFO]: Completed early MinecraftForge initialization
+[16:48:00] [Client thread/INFO]: [zmaster587.advancedRocketry.asm.ModContainer:<init>:23]: ********* CoreDummyContainer. OK
+[16:48:00] [Client thread/INFO]: [AppEng] Core Init
+[16:48:01] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[16:48:01] [Client thread/INFO]: Searching C:\Users\Charles\Desktop\MultiMc\MultiMC\instances\1.7.10\minecraft\mods for mods
+[16:48:01] [Client thread/INFO]: Also searching C:\Users\Charles\Desktop\MultiMc\MultiMC\instances\1.7.10\minecraft\mods\1.7.10 for mods
+[16:48:08] [Client thread/INFO]: Mod debug is missing the required element 'name'. Substituting debug
+[16:48:08] [Client thread/WARN]: Mod debug is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[16:48:08] [Client thread/WARN]: Mod ExtraUtilities is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.11
+[16:48:11] [Client thread/WARN]: Mod ProjRed|Core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre9.92
+[16:48:11] [Client thread/WARN]: Mod ProjRed|Compatibility is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre9.92
+[16:48:11] [Client thread/WARN]: Mod ProjRed|Fabrication is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre9.92
+[16:48:11] [Client thread/WARN]: Mod ProjRed|Integration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre9.92
+[16:48:11] [Client thread/WARN]: Mod ProjRed|Transmission is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre9.92
+[16:48:11] [Client thread/WARN]: Mod ProjRed|Expansion is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre9.92
+[16:48:11] [Client thread/WARN]: Mod ProjRed|Transportation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.7.0pre9.92
+[16:48:13] [Client thread/WARN]: Mod ForgeMicroblock is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.345
+[16:48:13] [Client thread/WARN]: Mod ForgeMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.345
+[16:48:13] [Client thread/WARN]: Mod McMultipart is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.2.0.345
+[16:48:13] [Client thread/INFO]: Mod MCFrames is missing the required element 'name'. Substituting MCFrames
+[16:48:13] [Client thread/WARN]: Mod MCFrames is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[16:48:13] [Client thread/WARN]: Mod ForgeRelocation is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.1.4
+[16:48:13] [Client thread/WARN]: Mod RelocationFMP is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 0.0.1.2
+[16:48:13] [Client thread/WARN]: Mod MrTJPCoreMod is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.0.31
+[16:48:13] [Client thread/INFO]: Forge Mod Loader has identified 118 mods to load
+[16:48:13] [Client thread/INFO]: Found mod(s) [ExtraUtilities] containing declared API package baubles.api (owned by Baubles) without associated API reference
+[16:48:13] [Client thread/INFO]: Found mod(s) [Artifacts] containing declared API package baubles.api (owned by Baubles) without associated API reference
+[16:48:13] [Client thread/INFO]: Found mod(s) [EnderIO] containing declared API package com.cricketcraft.chisel.api (owned by chisel) without associated API reference
+[16:48:13] [Client thread/INFO]: Found mod(s) [ImmersiveEngineering] containing declared API package cofh.api (owned by CoFHLib) without associated API reference
+[16:48:13] [Client thread/INFO]: Found mod(s) [libVulpes] containing declared API package cofh.api.energy (owned by CoFHAPI) without associated API reference
+[16:48:13] [Client thread/INFO]: [zmaster587.advancedRocketry.asm.ModContainer:registerBus:42]: ********* registerBus. OK
+[16:48:14] [Client thread/INFO]: FML has found a non-mod file CoFHLib-1.7.10.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:48:14] [Client thread/INFO]: FML has found a non-mod file CodeChickenLib-1.7.10-1.1.3.138-universal.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:48:14] [Client thread/INFO]: FML has found a non-mod file commons-codec-1.9.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:48:14] [Client thread/INFO]: FML has found a non-mod file commons-compress-1.8.1.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[16:48:15] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, AdvancedRocketry, appliedenergistics2-core, CodeChickenCore, Micdoodlecore, NotEnoughItems, OpenModsCore, <CoFH ASM>, battlegear2, lucky, Treecapitator, advancedRocketry, ae2stuff, AncientWarfareAutomation, AncientWarfare, AncientWarfareNEIPlugin, AncientWarfareNpc, AncientWarfareStructure, aobd, appliedenergistics2, Artifacts, Backpack, bdlib, BiblioCraft, BiblioWoodsBoP, BiblioWoodsForestry, BiblioWoodsNatura, BigReactors, BiomesOPlenty, BuildCraft|Transport, BuildCraft|Silicon, BuildCraft|Core, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Builders, BuildCraft|Robotics, BuildCraft|Compat, CarpentersBlocks, chisel, chocolateQuest, clockworkphase, CoFHCore, debug, denseores, endercore, EnderIO, EnderTech, EnderZoo, ExtraTiC, ExtraUtilities, Forestry, GalacticraftCore, ganysend, ganysnether, ganyssurface, iChunUtil, IguanaTweaksTConstruct, ImmersiveEngineering, immersiveintegration, inventorytweaks, IronChest, JABBA, journeymap, libVulpes, MagicBees, Mantle, Mekanism, MekanismGenerators, MekanismTools, Metallurgy, MetallurgyCore, millenaire, MooFluids, Morpheus, cfm, AS_MultiMine, MultiPageChest, Natura, NetherOres, OpenBlocks, OpenMods, fodc, harvestcraft, pandorasbox, PortalGun, ProjRed|Core, ProjRed|Compatibility, ProjRed|Fabrication, ProjRed|Integration, ProjRed|Transmission, ProjRed|Expansion, ProjRed|Transportation, Railcraft, secretroomsmod, simplyjetpacks, TConstruct, Techguns, Thaumcraft, ThermalExpansion, ThermalFoundation, tinkersdefense, TMechworks, TwilightForest, Waila, WailaHarvestability, YALSM, bspkrsCore, Baubles, ForgeMicroblock, ForgeMultipart, McMultipart, MCFrames, ForgeRelocation, RelocationFMP, libsandstone, MrTJPCoreMod] at CLIENT
+[16:48:15] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, AdvancedRocketry, appliedenergistics2-core, CodeChickenCore, Micdoodlecore, NotEnoughItems, OpenModsCore, <CoFH ASM>, battlegear2, lucky, Treecapitator, advancedRocketry, ae2stuff, AncientWarfareAutomation, AncientWarfare, AncientWarfareNEIPlugin, AncientWarfareNpc, AncientWarfareStructure, aobd, appliedenergistics2, Artifacts, Backpack, bdlib, BiblioCraft, BiblioWoodsBoP, BiblioWoodsForestry, BiblioWoodsNatura, BigReactors, BiomesOPlenty, BuildCraft|Transport, BuildCraft|Silicon, BuildCraft|Core, BuildCraft|Energy, BuildCraft|Factory, BuildCraft|Builders, BuildCraft|Robotics, BuildCraft|Compat, CarpentersBlocks, chisel, chocolateQuest, clockworkphase, CoFHCore, debug, denseores, endercore, EnderIO, EnderTech, EnderZoo, ExtraTiC, ExtraUtilities, Forestry, GalacticraftCore, ganysend, ganysnether, ganyssurface, iChunUtil, IguanaTweaksTConstruct, ImmersiveEngineering, immersiveintegration, inventorytweaks, IronChest, JABBA, journeymap, libVulpes, MagicBees, Mantle, Mekanism, MekanismGenerators, MekanismTools, Metallurgy, MetallurgyCore, millenaire, MooFluids, Morpheus, cfm, AS_MultiMine, MultiPageChest, Natura, NetherOres, OpenBlocks, OpenMods, fodc, harvestcraft, pandorasbox, PortalGun, ProjRed|Core, ProjRed|Compatibility, ProjRed|Fabrication, ProjRed|Integration, ProjRed|Transmission, ProjRed|Expansion, ProjRed|Transportation, Railcraft, secretroomsmod, simplyjetpacks, TConstruct, Techguns, Thaumcraft, ThermalExpansion, ThermalFoundation, tinkersdefense, TMechworks, TwilightForest, Waila, WailaHarvestability, YALSM, bspkrsCore, Baubles, ForgeMicroblock, ForgeMultipart, McMultipart, MCFrames, ForgeRelocation, RelocationFMP, libsandstone, MrTJPCoreMod] at SERVER
+[16:48:16] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1848]: Galacticraft successfully injected bytecode into: bkn (1 / 1)
+[16:48:17] [Client thread/INFO]: Transforming Class [net.minecraft.world.WorldType], Method [func_76564_j]
+[16:48:17] [Client thread/INFO]: Transforming net.minecraft.world.WorldType Finished.
+[16:48:17] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1848]: Galacticraft successfully injected bytecode into: boh (1 / 1)
+[16:48:17] [Client thread/ERROR]: The mod Backpack is expecting signature @FINGERPRINT@ for source backpack-2.0.0-1.7.x.jar, however there is no signature matching that description
+[16:48:19] [Client thread/INFO]: M&B - Patching Class ModelBiped (bhm)
+[16:48:19] [Client thread/INFO]: 	Patching method setRotationAngles in ModelBiped
+[16:48:19] [Client thread/INFO]: M&B - Patching Class ModelBiped done
+[16:48:20] [Client thread/INFO]: Natura, what are we going to do tomorrow night?
+[16:48:20] [Client thread/INFO]: TConstruct, we're going to take over the world!
+[16:48:22] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.ContainerWorkbench
+[16:48:22] [Client thread/INFO]: InvTweaks: net.minecraft.inventory.ContainerRepair
+[16:48:22] [Client thread/INFO]: Transforming Class [net.minecraft.inventory.ContainerRepair], Method [func_82848_d]
+[16:48:22] [Client thread/INFO]: Transforming net.minecraft.inventory.ContainerRepair Finished.
+[16:48:23] [Client thread/ERROR]: The mod MooFluids is expecting signature @FINGERPRINT@ for source MooFluids-1.7.10-1.5.01.19a.jar, however there is no signature matching that description
+[16:48:23] [Client thread/ERROR]: No fingerprint found!
+[16:48:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Not Enough Items, FMLFileResourcePack:Mine & Blade Battlegear 2 - Bullseye, FMLFileResourcePack:Lucky Block, FMLFileResourcePack:Treecapitator, FMLFileResourcePack:Advanced Rocketry, FMLFileResourcePack:AE2 Stuff, FMLFileResourcePack:Ancient Warfare Automation, FMLFileResourcePack:Ancient Warfare Core, FMLFileResourcePack:Ancient Warfare NEI Plugin, FMLFileResourcePack:Ancient Warfare NPCs, FMLFileResourcePack:Ancient Warfare Structures, FMLFileResourcePack:Another One Bites The Dust, FMLFileResourcePack:Applied Energistics 2, FMLFileResourcePack:Artifacts, FMLFileResourcePack:Backpack, FMLFileResourcePack:BD Lib, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:BiblioWoods Biomes O'Plenty Edition, FMLFileResourcePack:BiblioWoods Forestry Edition, FMLFileResourcePack:BiblioWoods Natura Edition, FMLFileResourcePack:Big Reactors, FMLFileResourcePack:Biomes O' Plenty, FMLFileResourcePack:BC Transport, FMLFileResourcePack:BC Silicon, FMLFileResourcePack:BuildCraft, FMLFileResourcePack:BC Energy, FMLFileResourcePack:BC Factory, FMLFileResourcePack:BC Builders, FMLFileResourcePack:BC Robotics, FMLFileResourcePack:BuildCraft Compat, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chocolate Quest, FMLFileResourcePack:Clockwork Phase, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:debug, FMLFileResourcePack:Dense Ores, FMLFileResourcePack:EnderCore, FMLFileResourcePack:Ender IO, FMLFileResourcePack:EnderTech, FMLFileResourcePack:Ender Zoo, FMLFileResourcePack:ExtraTiC, FMLFileResourcePack:Extra Utilities, FMLFileResourcePack:Forestry for Minecraft, FMLFileResourcePack:Galacticraft Core, FMLFileResourcePack:Gany's End, FMLFileResourcePack:Gany's Nether, FMLFileResourcePack:Gany's Surface, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:Iguana Tinker Tweaks, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:Immersive Integration, FMLFileResourcePack:Inventory Tweaks, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:JABBA, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:libVulpes, FMLFileResourcePack:Magic Bees, FMLFileResourcePack:Mantle, FMLFileResourcePack:Mekanism, FMLFileResourcePack:MekanismGenerators, FMLFileResourcePack:MekanismTools, FMLFileResourcePack:Metallurgy 4, FMLFileResourcePack:Metallurgy Core, FMLFileResourcePack:Mill√©naire, FMLFileResourcePack:Moo Fluids, FMLFileResourcePack:Morpheus, FMLFileResourcePack:ß9MrCrayfish's Furniture Mod, FMLFileResourcePack:Multi Mine, FMLFileResourcePack:Multi Page Chest, FMLFileResourcePack:Natura, FMLFileResourcePack:Nether Ores, FMLFileResourcePack:OpenBlocks, FMLFileResourcePack:OpenMods, FMLFileResourcePack:Ore Dictionary Converter, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Pandora's Box, FMLFileResourcePack:PortalGun, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:ProjectRed Compatibility, FMLFileResourcePack:ProjectRed Fabrication, FMLFileResourcePack:ProjectRed Integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:ProjectRed Expansion, FMLFileResourcePack:ProjectRed Transportation, FMLFileResourcePack:Railcraft, FMLFileResourcePack:The SecretRoomsMod, FMLFileResourcePack:Simply Jetpacks, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:Techguns, FMLFileResourcePack:Thaumcraft, FMLFileResourcePack:Thermal Expansion, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Tinkers' Defense, FMLFileResourcePack:Tinkers' Mechworks, FMLFileResourcePack:The Twilight Forest, FMLFileResourcePack:Waila, FMLFileResourcePack:Waila Harvestability, FMLFileResourcePack:Yet Another Leather Smelting Mod, FMLFileResourcePack:bspkrsCore, FMLFileResourcePack:Baubles, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:MCFrames, FMLFileResourcePack:ForgeRelocation, FMLFileResourcePack:RelocationFMP, FMLFileResourcePack:libsandstone, FMLFileResourcePack:MrTJPCore
+[16:48:23] [Client thread/INFO]: Processing ObjectHolder annotations
+[16:48:23] [Client thread/INFO]: Found 516 ObjectHolder annotations
+[16:48:23] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[16:48:23] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[16:48:23] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[16:48:24] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1848]: Galacticraft successfully injected bytecode into: bje (2 / 2)
+[16:48:24] [Client thread/INFO]: [atomicstryker.multimine.common.fmlmagic.MMTransformer:handlePlayerControllerMP:76]: **************** Multi Mine transform running on PlayerControllerMP, obfuscated: true *********************** 
+[16:48:24] [Client thread/INFO]: [atomicstryker.multimine.common.fmlmagic.MMTransformer:handlePlayerControllerMP:89]: In target method! Patching!
+[16:48:24] [Client thread/INFO]: [atomicstryker.multimine.common.fmlmagic.MMTransformer:handlePlayerControllerMP:106]: Found IFLT Node at 170
+[16:48:24] [Client thread/INFO]: [atomicstryker.multimine.common.fmlmagic.MMTransformer:handlePlayerControllerMP:114]: Found ALOAD Node at offset -4 from IFLT Node
+[16:48:24] [Client thread/INFO]: [atomicstryker.multimine.common.fmlmagic.MMTransformer:handlePlayerControllerMP:192]: Patching Complete! Writing class bytes now.
+[16:48:24] [Client thread/INFO]: M&B - Patching Class PlayerControllerMP (bje)
+[16:48:24] [Client thread/INFO]: 	Patching method sendUseItem in PlayerControllerMP
+[16:48:24] [Client thread/INFO]: M&B - Patching Class PlayerControllerMP done
+[16:48:24] [Client thread/INFO]: M&B - Patching Class EntityOtherPlayerMP (bll)
+[16:48:24] [Client thread/INFO]: 	Patching method onUpdate in EntityOtherPlayerMP
+[16:48:24] [Client thread/INFO]: 	Patching method setCurrentItem in EntityOtherPlayerMP
+[16:48:24] [Client thread/INFO]: M&B - Patching Class EntityOtherPlayerMP done
+[16:48:24] [Client thread/INFO]: transforming: net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher
+[16:48:24] [Client thread/INFO]: bmk net.minecraft.client.renderer.tileentity.TileEntityRendererDispatcher a (Laor;F)V
+[16:48:24] [Client thread/INFO]: Loading configuration file C:\Users\Charles\Desktop\MultiMc\MultiMC\instances\1.7.10\minecraft\config\Treecapitator.cfg
+[16:48:24] [Client thread/INFO]: Proceeding to load tree/mod configs from file.
+[16:48:25] [Client thread/INFO]: Registering Default Templates.
+[16:48:25] [Client thread/INFO]: Registering default generators
+[16:48:25] [Client thread/INFO]: Complete
+[16:48:25] [Client thread/INFO]: Starting BuildCraft 7.1.18
+[16:48:25] [Client thread/INFO]: Copyright (c) the BuildCraft team, 2011-2015
+[16:48:25] [Client thread/INFO]: http://www.mod-buildcraft.com
+[16:48:25] [Thread-10/INFO]: Beginning version check
+[16:48:25] [CoFHUpdater:CoFHCore/INFO]: An updated version of CoFH Core is available: CoFH Core 3.1.3 for Minecraft 1.7.10.
+[16:48:26] [Client thread/INFO]: Pre Initialization ( started )
+[16:48:26] [Client thread/INFO]: func_145839_a(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[16:48:26] [Client thread/INFO]: func_145841_b(Lnet/minecraft/nbt/NBTTagCompound;)V - Transformed
+[16:48:26] [Client thread/INFO]: Removing Interface ic2.api.energy.tile.IEnergySink from appeng/tile/powersink/IC2 because IC2 integration is disabled.
+[16:48:26] [Client thread/INFO]: Updated appeng/tile/powersink/IC2
+[16:48:26] [Client thread/INFO]: Removing Interface Reika.RotaryCraft.API.Power.AdvancedShaftPowerReceiver from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[16:48:26] [Client thread/INFO]: Removing Interface Reika.RotaryCraft.API.Interfaces.Transducerable from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[16:48:26] [Client thread/INFO]: Removing Method Tick_RotaryCraft from appeng/tile/powersink/RotaryCraft because RotaryCraft integration is disabled.
+[16:48:26] [Client thread/INFO]: Updated appeng/tile/powersink/RotaryCraft
+[16:48:26] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/tile/powersink/RedstoneFlux because RF integration is enabled.
+[16:48:26] [Client thread/INFO]: Allowing Interface mekanism.api.energy.IStrictEnergyAcceptor from appeng/tile/powersink/MekJoules because Mekanism integration is enabled.
+[16:48:26] [Client thread/INFO]: Removing Interface powercrystals.minefactoryreloaded.api.rednet.connectivity.IRedNetConnection from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[16:48:26] [Client thread/INFO]: Removing Method getConnectionType from appeng/block/networking/BlockCableBus because MFR integration is disabled.
+[16:48:26] [Client thread/INFO]: Updated appeng/block/networking/BlockCableBus
+[16:48:26] [Client thread/INFO]: Allowing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/quartz/ToolQuartzWrench because BuildCraftCore integration is enabled.
+[16:48:26] [Client thread/INFO]: Removing Interface ic2.api.item.ISpecialElectricItem from appeng/items/tools/powered/powersink/IC2 because IC2 integration is disabled.
+[16:48:26] [Client thread/INFO]: Removing Interface ic2.api.item.IElectricItemManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is disabled.
+[16:48:26] [Client thread/INFO]: Removing Method getManager from appeng/items/tools/powered/powersink/IC2 because IC2 integration is disabled.
+[16:48:26] [Client thread/INFO]: Updated appeng/items/tools/powered/powersink/IC2
+[16:48:26] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyContainerItem from appeng/items/tools/powered/powersink/RedstoneFlux because RFItem integration is enabled.
+[16:48:26] [Client thread/INFO]: Allowing Interface buildcraft.api.tools.IToolWrench from appeng/items/tools/ToolNetworkTool because BuildCraftCore integration is enabled.
+[16:48:26] [Client thread/INFO]: Allowing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/misc/PartStorageBus because BuildCraftTransport integration is enabled.
+[16:48:26] [Client thread/INFO]: Allowing Method overridePipeConnection from appeng/parts/misc/PartStorageBus because BuildCraftTransport integration is enabled.
+[16:48:26] [Client thread/INFO]: Allowing Interface buildcraft.api.transport.IPipeConnection from appeng/parts/p2p/PartP2PItems because BuildCraftTransport integration is enabled.
+[16:48:26] [Client thread/INFO]: Allowing Method overridePipeConnection from appeng/parts/p2p/PartP2PItems because BuildCraftTransport integration is enabled.
+[16:48:26] [Client thread/INFO]: Removing Interface ic2.api.energy.tile.IEnergySink from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is disabled.
+[16:48:26] [Client thread/INFO]: Removing Interface ic2.api.energy.tile.IEnergySource from appeng/parts/p2p/PartP2PIC2Power because IC2 integration is disabled.
+[16:48:26] [Client thread/INFO]: Updated appeng/parts/p2p/PartP2PIC2Power
+[16:48:26] [Client thread/INFO]: Allowing Interface cofh.api.energy.IEnergyReceiver from appeng/parts/p2p/PartP2PRFPower because RF integration is enabled.
+[16:48:26] [Client thread/INFO]: Removing Interface li.cil.oc.api.network.Environment from appeng/parts/p2p/PartP2POpenComputers because OpenComputers integration is disabled.
+[16:48:26] [Client thread/INFO]: Removing Interface li.cil.oc.api.network.SidedEnvironment from appeng/parts/p2p/PartP2POpenComputers because OpenComputers integration is disabled.
+[16:48:26] [Client thread/INFO]: Updated appeng/parts/p2p/PartP2POpenComputers
+[16:48:26] [Client thread/INFO]: Removing Interface pneumaticCraft.api.tileentity.ISidedPneumaticMachine from appeng/parts/p2p/PartP2PPressure because PneumaticCraft integration is disabled.
+[16:48:26] [Client thread/INFO]: Updated appeng/parts/p2p/PartP2PPressure
+[16:48:26] [Client thread/INFO]: Starting AE2 VersionChecker
+[16:48:26] [Client thread/INFO]: Pre Initialization ( ended after 1014ms )
+[16:48:26] [Client thread/INFO]: bdlib 1.9.2.104 loaded
+[16:48:27] [Client thread/INFO]: Initialized network channel 'bdew.multiblock' for mod 'bdlib'
+[16:48:27] [Client thread/INFO]: Loading internal config files for mod AE2 Stuff
+[16:48:27] [Client thread/INFO]: Loading config: jar:file:/C:/Users/Charles/Desktop/MultiMc/MultiMC/instances/1.7.10/minecraft/mods/ae2stuff-0.5.0.56-mc1.7.10.jar!/assets/ae2stuff/config/tuning.cfg
+[16:48:27] [Client thread/INFO]: Loading config: jar:file:/C:/Users/Charles/Desktop/MultiMc/MultiMC/instances/1.7.10/minecraft/mods/ae2stuff-0.5.0.56-mc1.7.10.jar!/assets/ae2stuff/config/recipes.cfg
+[16:48:27] [Client thread/INFO]: Loading user config files for mod AE2 Stuff
+[16:48:27] [Client thread/INFO]: Config loading for mod AE2 Stuff finished
+[16:48:27] [Client thread/INFO]: Loaded creative tabs for ae2stuff
+[16:48:27] [AE2 VersionChecker/INFO]: No newer version is available: rv3-beta-6(found) < rv3-beta-6 (current)
+[16:48:27] [AE2 VersionChecker/INFO]: Stopping AE2 VersionChecker
+[16:48:27] [Client thread/INFO]: Detecting BuildCraft|Core is loaded, enabling BC Compatibility
+[16:48:27] [Client thread/INFO]: Detecting CoFHCore is loaded, enabling RF Compatibility
+[16:48:27] [Client thread/INFO]: RF Compatability loaded successfully
+[16:48:28] [Client thread/INFO]: [com.draco18s.artifacts.factory.FactoryItemIcons:<init>:32]: Instancing default icon list
+[16:48:28] [Client thread/INFO]: [micdoodle8.mods.miccore.MicdoodleTransformer:printLog:1848]: Galacticraft successfully injected bytecode into: blt (5 / 5)
+[16:48:29] [Client thread/INFO]: Mantle (1.7.10-0.3.2.jenkins184) -- Preparing for launch.
+[16:48:29] [Client thread/INFO]: Entering preinitialization phase.
+[16:48:29] [Client thread/INFO]: Loading configuration from disk.
+[16:48:29] [Client thread/INFO]: Configuration load completed.
+[16:48:29] [Client thread/INFO]: Skipping Pulse Natura MFR Compatibility; missing dependency: MineFactoryReloaded
+[16:48:29] [Client thread/INFO]: [BiomesOPlenty] Extending Potions Array.
+[16:48:30] [Client thread/INFO]: Recreating all gamemode definitions from the defaults. This may be caused by an upgrade
+[16:48:31] [Client thread/INFO]: Module AgriCraft Plugin failed to load: AgriCraft not found
+[16:48:31] [Client thread/INFO]: Module Erebus Plugin failed to load: Erebus not found
+[16:48:31] [Client thread/INFO]: Module Growthcraft Plugin failed to load: GrowthCraft not found
+[16:48:31] [Client thread/INFO]: Module IndustrialCraft2 Plugin failed to load: IndustrialCraft2 not found
+[16:48:31] [Client thread/INFO]: Module MagicalCrops Plugin failed to load: Magical Crops not found
+[16:48:31] [Client thread/INFO]: Module MineFactoryReloaded Plugin failed to load: MineFactoryReloaded not found
+[16:48:31] [Client thread/INFO]: Module PlantMegaPack Plugin failed to load: Plant Mega Pack not found
+[16:48:31] [Client thread/INFO]: Module RotaryCraft Plugin failed to load: RotaryCraft not found
+[16:48:31] [Client thread/INFO]: Module Witchery Plugin failed to load: Witchery not found
+[16:48:33] [CoFHUpdater:ThermalFoundation/INFO]: An updated version of Thermal Foundation is available: Thermal Foundation 1.2.5 for Minecraft 1.7.10.
+[16:48:33] [Client thread/INFO]: Loading Plugins...
+[16:48:33] [Client thread/INFO]: Finished Loading Plugins.
+[16:48:33] [CoFHUpdater:ThermalExpansion/INFO]: An updated version of Thermal Expansion is available: Thermal Expansion 4.1.4 for Minecraft 1.7.10.
+[16:48:33] [Client thread/INFO]: Loading Plugins...
+[16:48:33] [Client thread/INFO]: Finished Loading Plugins.
+[16:48:34] [Client thread/INFO]: Designs found: Bed(6), Chisel(9), FlowerPot(18), Tile(13)
+[16:48:35] [Client thread/INFO]: Module disabled: ModuleIC2, IC2 not detected
+[16:48:35] [Client thread/WARN]: A mod has attempted to assign Block mods.railcraft.common.fluids.BlockRailcraftFluidFinite@e837f75 to the Fluid 'steam' but this Fluid has already been linked to the Block cofh.thermalfoundation.fluid.BlockFluidSteam@5f3b92b9. You may have duplicate Fluid Blocks as a result. It *may* be possible to configure your mods to avoid this.
+[16:48:36] [Client thread/INFO]: Activating Christmas Seasonal Pack
+[16:48:37] [Client thread/WARN]: [TwilightForest] Biome ID conflict.  Biome ID 126 contains a biome named Ocean Oil Field, but Twilight Forest is set to use that ID.
+[16:48:37] [Client thread/WARN]: [TwilightForest] Biome ID conflict.  Biome ID 127 contains a biome named Desert Oil Field, but Twilight Forest is set to use that ID.
+[16:48:37] [Client thread/WARN]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[16:48:37] [Client thread/WARN]: [TwilightForest] Biome ID conflict detected.  Edit the Twilight Forest config to give all biomes unique IDs.
+[16:48:37] [Client thread/INFO]: Starting pre-init...
+[16:48:37] [Client thread/INFO]: Loading blocks...
+[16:48:37] [Client thread/INFO]: Skipping feature bloodRune as its required mod AWWayofTime was missing.
+[16:48:37] [Client thread/INFO]: Skipping feature bloodBlock as its required mod AWWayofTime was missing.
+[16:48:38] [Client thread/INFO]: 104 Feature's blocks loaded.
+[16:48:38] [Client thread/INFO]: Loading Tile Entities...
+[16:48:38] [Client thread/INFO]: Tile Entities loaded.
+[16:48:38] [Client thread/INFO]: Loading items...
+[16:48:38] [Client thread/INFO]: Skipping feature bloodRune as its required mod AWWayofTime was missing.
+[16:48:38] [Client thread/INFO]: Skipping feature bloodBlock as its required mod AWWayofTime was missing.
+[16:48:38] [Client thread/INFO]: 104 Feature's items loaded.
+[16:48:38] [Client thread/INFO]: Pre-init finished.
+[16:48:38] [Client thread/INFO]: Attempting to initialize texture error message interceptor.
+[16:48:39] [Client thread/INFO]: XP Juice regististration left to Open Blocks.
+[16:48:40] [Client thread/INFO]: Hello World
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.ThaumcraftHelper@3425328
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.waila.WailaHelper@32647fea
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.TConstructHelper@538742b1
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.FMPHelper@6fc179e4
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.MekanismHelper@7e0bac27
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.AppliedEnergisticsHelper@7a76dac6
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.HarvestCraftHelper@74293c2e
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.ThermalExpansionHelper@63d9890e
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.ChiselHelper@18601190
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.ExtraUtilsHelper@540c58b0
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.DenseOresHelper@69f9c653
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.RailcraftHelper@4647b39b
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.ForestryHelper@5eb3d652
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.ThermalFoundationHelper@472dd04
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.CarpentersHelper@7da9939e
+[16:48:41] [Client thread/INFO]: Loading compat module: blusunrize.immersiveengineering.common.util.compat.EnderIOHelper@263be0ae
+[16:48:41] [Client thread/INFO]: Skipping Pulse Tinkers IC2 Compatibility; missing dependency: IC2
+[16:48:41] [Client thread/INFO]: Skipping Pulse Tinkers Mystcraft Compatibility; missing dependency: Mystcraft
+[16:48:41] [Client thread/INFO]: Skipping Pulse Tinkers MFR Compatibility; missing dependency: MineFactoryReloaded
+[16:48:41] [Client thread/INFO]: Skipping Pulse Tinkers' Underground Biomes Compatiblity; missing dependency: UndergroundBiomes
+[16:48:41] [Client thread/INFO]: Skipping Pulse Tinkers RF-Tools Compatibility; missing dependency: rftools
+[16:48:41] [Client thread/INFO]: Gear module active. Adding gear cast.
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotCopper has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotTin has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotManganese has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotBronze has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotHepatizon has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotDamascusSteel has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotAngmallen has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotSteel has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotEximite has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotMeutoite has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotDesichalkos has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotPrometheum has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotDeepIron has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotInfuscolium has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotBlackSteel has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotOureclase has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotAstralSilver has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotCarmot has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotMithril has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotRubracium has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotQuicksilver has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotHaderoth has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotOrichalcum has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotCelenegil has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotAdamantine has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotAtlarus has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotTartarite has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotIgnatius has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotShadowIron has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotLemurite has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotMidasium has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotVyroxeres has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotCeruclase has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotAlduorite has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotKalendrite has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotVulcanite has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotSanguinite has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotShadowSteel has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotInolashite has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotAmordrine has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotZinc has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotSilver has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotPlatinum has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotBrass has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:41] [Client thread/WARN]: * A broken ore dictionary registration with name ingotElectrum has occurred. It adds an item (type: class com.teammetallurgy.metallurgy.metals.MetalItem) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Metallurgy 4 report it to them!
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:41] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.metals.MetalSet.load(MetalSet.java:380)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.injectMetalSet(BlockList.java:201)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.initMetalSets(BlockList.java:163)
+[16:48:41] [Client thread/WARN]: *  at com.teammetallurgy.metallurgy.BlockList.init(BlockList.java:91)...
+[16:48:41] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/INFO]: Metallurgy Detected
+[16:48:42] [Client thread/INFO]: Natura Detected
+[16:48:42] [Client thread/INFO]: Mekanism Detected
+[16:48:42] [Client thread/INFO]: Applied Energistics Detected
+[16:48:42] [Client thread/INFO]: Biomes O' Plenty Detected
+[16:48:42] [Client thread/INFO]: Twilight Forest Detected
+[16:48:42] [Client thread/INFO]: Thaumcraft Detected
+[16:48:42] [Client thread/INFO]: Ganys' End Detected
+[16:48:42] [Client thread/INFO]: Ganys' End disabled in config
+[16:48:42] [Client thread/INFO]: EnderIO Detected
+[16:48:42] [Client thread/INFO]: BigReactors Detected
+[16:48:42] [Client thread/INFO]: ExtraUtils Detected
+[16:48:42] [Client thread/INFO]: HarvestCraft Detected
+[16:48:42] [Client thread/INFO]: Thermal Foundation Detected
+[16:48:42] [Client thread/INFO]: Immersive Engineering Detected
+[16:48:42] [Client thread/INFO]: Galacticraft oil is not default, issues may occur.
+[16:48:42] [Client thread/INFO]: Galacticraft fuel is not default, issues may occur.
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name ingotCopper has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name ingotTin has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name ingotAluminum has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name compressedCopper has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name compressedTin has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name compressedAluminum has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name compressedSteel has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name compressedBronze has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name compressedIron has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name waferSolar has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name waferBasic has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name waferAdvanced has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemBasic) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:240)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name compressedMeteoricIron has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemMoon) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:244)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:42] [Client thread/WARN]: * A broken ore dictionary registration with name ingotMeteoricIron has occurred. It adds an item (type: class micdoodle8.mods.galacticraft.core.items.ItemMoon) which is currently unknown to the game registry. This dictionary item can only support a single value when registered with ores like this, and NO I am not going to turn this spam off. Just register your ore dictionary entries after the GameRegistry.
+TO USERS: YES this is a BUG in the mod Galacticraft Core report it to them!
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOreImpl(OreDictionary.java:534)
+[16:48:42] [Client thread/WARN]: *  at net.minecraftforge.oredict.OreDictionary.registerOre(OreDictionary.java:501)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.items.GCItems.initItems(GCItems.java:245)
+[16:48:42] [Client thread/WARN]: *  at micdoodle8.mods.galacticraft.core.GalacticraftCore.preInit(GalacticraftCore.java:360)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[16:48:42] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)...
+[16:48:42] [Client thread/WARN]: ****************************************
+[16:48:44] [Client thread/INFO]: InvTweaks: invtweaks.InvTweaksObfuscation

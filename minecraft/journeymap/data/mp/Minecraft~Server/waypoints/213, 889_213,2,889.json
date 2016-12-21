@@ -1,0 +1,17 @@
+{
+  "id": "213, 889_213,2,889",
+  "name": "213, 889",
+  "icon": "waypoint-normal.png",
+  "x": 213,
+  "y": 2,
+  "z": 889,
+  "r": 11,
+  "g": 27,
+  "b": 243,
+  "enable": true,
+  "type": "Normal",
+  "origin": "JourneyMap",
+  "dimensions": [
+    0
+  ]
+}
