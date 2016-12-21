@@ -103,3 +103,10 @@ NOW: AE2 Stuff:0.5.0.56, Advanced Rocketry:1, Advanced Rocketry:1.7.10-1.0.3, An
 [16:51:00] [JM-task-5/INFO] [VanillaColorHandler] Custom biome color will be used with BlockMD [minecraft:redstone_wire:15] (CustomBiomeColor)
 [16:51:00] [JM-task-5/INFO] [VanillaColorHandler] Custom biome color will be used with BlockMD [minecraft:redstone_wire:14] (CustomBiomeColor)
 [16:51:00] [JM-task-5/INFO] [VanillaColorHandler] Custom biome color will be used with BlockMD [minecraft:redstone_wire:13] (CustomBiomeColor)
+[16:56:29] [JM-task-5/WARN] [VanillaColorHandler] Iconloader failed to get base color for BlockMD [AncientWarfareAutomation:civic_forestry:0] (Error)
+[17:03:19] [Client thread/INFO] [JourneymapClient] Mapping halted in C:\Users\Charles\Desktop\MultiMc\MultiMC\instances\1.7.10\minecraft\journeymap\data\mp\Minecraft~Server\DIM0
+[17:03:28] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[17:03:30] [Client thread/INFO] [WorldInfoHandler] Requesting World ID
+[17:03:30] [Client thread/INFO] [WaypointStore] Loaded 3 waypoints from C:\Users\Charles\Desktop\MultiMc\MultiMC\instances\1.7.10\minecraft\journeymap\data\mp\Minecraft~Server\waypoints
+[17:03:30] [Client thread/INFO] [ColorManager] Blocks and textures are current
+[17:03:30] [Client thread/INFO] [JourneymapClient] Mapping started in C:\Users\Charles\Desktop\MultiMc\MultiMC\instances\1.7.10\minecraft\journeymap\data\mp\Minecraft~Server\DIM0. Memory: 5203MB total, 3289MB free 
