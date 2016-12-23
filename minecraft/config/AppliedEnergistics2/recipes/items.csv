@@ -477,7 +477,7 @@ minecraft:redstone, Redstone
 minecraft:snowball, Snowball
 minecraft:boat, Boat
 minecraft:leather, Leather
-minecraft:milk_bucket, Milk
+minecraft:milk_bucket, Milk Bucket
 minecraft:brick, Brick
 minecraft:clay_ball, Clay
 minecraft:reeds, Sugar Canes
@@ -2927,7 +2927,7 @@ ThermalFoundation:FluidEnder, Resonant Ender
 ThermalFoundation:FluidPyrotheum, Blazing Pyrotheum
 ThermalFoundation:FluidCryotheum, Gelid Cryotheum
 ThermalFoundation:FluidAerotheum, Zephyrean Aerotheum
-ThermalFoundation:FluidPetrotheum, tile.thermalfoundation.fluid.petrotheum.name
+ThermalFoundation:FluidPetrotheum, Tectonic Petrotheum
 ThermalFoundation:FluidMana, Primal Mana
 ThermalFoundation:FluidSteam, Steam
 ThermalFoundation:FluidCoal, Liquifacted Coal
@@ -3419,9 +3419,6 @@ Railcraft:ore:3, Dark Emerald Ore
 Railcraft:ore:4, Dark Lapis Lazuli Ore
 Railcraft:ore:5, Firestone Ore
 Railcraft:ore:7, Poor Iron Ore
-Railcraft:ore:8, Poor Gold Ore
-Railcraft:ore:9, Poor Copper Ore
-Railcraft:ore:10, Poor Tin Ore
 Railcraft:ore:11, Poor Lead Ore
 Railcraft:worldlogic, Saltpeter Ore Spawner
 Railcraft:firestone.recharge, Recharging Firestone
@@ -4993,6 +4990,167 @@ clockworkphase:extractorFire, Fire Fork Extractor
 clockworkphase:extractorLunar, Lunar Fork Extractor
 clockworkphase:extractorDeath, Death Fork Extractor
 clockworkphase:hourglassLightBlock, Hourglass Light
+MineFactoryReloaded:conveyor:16, Conveyor Belt
+MineFactoryReloaded:conveyor:0, Conveyor Belt (White)
+MineFactoryReloaded:conveyor:1, Conveyor Belt (Orange)
+MineFactoryReloaded:conveyor:2, Conveyor Belt (Magenta)
+MineFactoryReloaded:conveyor:3, Conveyor Belt (Light Blue)
+MineFactoryReloaded:conveyor:4, Conveyor Belt (Yellow)
+MineFactoryReloaded:conveyor:5, Conveyor Belt (Lime)
+MineFactoryReloaded:conveyor:6, Conveyor Belt (Pink)
+MineFactoryReloaded:conveyor:7, Conveyor Belt (Gray)
+MineFactoryReloaded:conveyor:8, Conveyor Belt (Light Gray)
+MineFactoryReloaded:conveyor:9, Conveyor Belt (Cyan)
+MineFactoryReloaded:conveyor:10, Conveyor Belt (Purple)
+MineFactoryReloaded:conveyor:11, Conveyor Belt (Blue)
+MineFactoryReloaded:conveyor:12, Conveyor Belt (Brown)
+MineFactoryReloaded:conveyor:13, Conveyor Belt (Green)
+MineFactoryReloaded:conveyor:14, Conveyor Belt (Red)
+MineFactoryReloaded:conveyor:15, Conveyor Belt (Black)
+MineFactoryReloaded:machineblock:0, Factory Machine Block
+MineFactoryReloaded:machineblock:1, Programmable RedNet Controller Housing
+MineFactoryReloaded:machine.0:0, Planter
+MineFactoryReloaded:machine.0:1, Fisher
+MineFactoryReloaded:machine.0:2, Harvester
+MineFactoryReloaded:machine.0:3, Rancher
+MineFactoryReloaded:machine.0:4, Fertilizer
+MineFactoryReloaded:machine.0:5, Veterinary Station
+MineFactoryReloaded:machine.0:6, Item Collector
+MineFactoryReloaded:machine.0:7, Block Breaker
+MineFactoryReloaded:machine.0:8, Weather Collector
+MineFactoryReloaded:machine.0:9, Sludge Boiler
+MineFactoryReloaded:machine.0:10, Sewer
+MineFactoryReloaded:machine.0:11, Composter
+MineFactoryReloaded:machine.0:12, Breeder
+MineFactoryReloaded:machine.0:13, Grinder
+MineFactoryReloaded:machine.0:14, Auto-Enchanter
+MineFactoryReloaded:machine.0:15, Chronotyper
+MineFactoryReloaded:machine.1:0, Ejector
+MineFactoryReloaded:machine.1:1, Item Router
+MineFactoryReloaded:machine.1:2, Liquid Router
+MineFactoryReloaded:machine.1:3, Deep Storage Unit
+MineFactoryReloaded:machine.1:4, LiquiCrafter
+MineFactoryReloaded:machine.1:5, Lava Fabricator
+MineFactoryReloaded:machine.1:6, Steam Boiler
+MineFactoryReloaded:machine.1:7, Auto-Jukebox
+MineFactoryReloaded:machine.1:8, Unifier
+MineFactoryReloaded:machine.1:9, Auto-Spawner
+MineFactoryReloaded:machine.1:10, BioReactor
+MineFactoryReloaded:machine.1:11, BioFuel Generator
+MineFactoryReloaded:machine.1:12, Auto-Disenchanter
+MineFactoryReloaded:machine.1:13, Slaughterhouse
+MineFactoryReloaded:machine.1:14, Meat Packer
+MineFactoryReloaded:machine.1:15, Enchantment Router
+MineFactoryReloaded:machine.2:0, Laser Drill
+MineFactoryReloaded:machine.2:1, Laser Drill Precharger
+MineFactoryReloaded:machine.2:2, Auto-Anvil
+MineFactoryReloaded:machine.2:3, Block Smasher
+MineFactoryReloaded:machine.2:4, RedNote Block
+MineFactoryReloaded:machine.2:5, Auto-Brewer
+MineFactoryReloaded:machine.2:6, Fruit Picker
+MineFactoryReloaded:machine.2:7, Block Placer
+MineFactoryReloaded:machine.2:8, Mob Counter
+MineFactoryReloaded:machine.2:9, Steam Turbine
+MineFactoryReloaded:machine.2:10, Chunk Loader
+MineFactoryReloaded:machine.2:11, Fountain
+MineFactoryReloaded:machine.2:12, Mob Router
+MineFactoryReloaded:tank, Plastic Tank
+MineFactoryReloaded:cable.plastic, Plastic Pipe
+MineFactoryReloaded:cable.redstone:0, RedNet Cable
+MineFactoryReloaded:cable.redstone:1, RedNet Cable
+MineFactoryReloaded:cable.redstone:2, RedNet Energy Cable
+MineFactoryReloaded:cable.redstone:3, RedNet Energy Cable
+MineFactoryReloaded:rednet.logic, Programmable RedNet Controller
+MineFactoryReloaded:rednet.panel:0, RedNet Historian
+MineFactoryReloaded:rail.cargo.pickup, Cargo Pickup Rail
+MineFactoryReloaded:rail.cargo.dropoff, Cargo Dropoff Rail
+MineFactoryReloaded:rail.passenger.pickup, Passenger Pickup Rail
+MineFactoryReloaded:rail.passenger.dropoff, Passenger Dropoff Rail
+MineFactoryReloaded:rubberwood.sapling:0, Rubber Sapling
+MineFactoryReloaded:rubberwood.sapling:1, Sacred Rubber Sapling
+MineFactoryReloaded:rubberwood.sapling:2, Mega Rubber Sapling
+MineFactoryReloaded:rubberwood.sapling:3, Sacred Rubber Sapling
+MineFactoryReloaded:rubberwood.log, Rubber Wood
+MineFactoryReloaded:rubberwood.leaves:0, Rubber Leaves
+MineFactoryReloaded:rubberwood.leaves:1, Dry Rubber Leaves
+MineFactoryReloaded:stainedglass.block:0, Stained Glass (White)
+MineFactoryReloaded:stainedglass.block:1, Stained Glass (Orange)
+MineFactoryReloaded:stainedglass.block:2, Stained Glass (Magenta)
+MineFactoryReloaded:stainedglass.block:3, Stained Glass (Light Blue)
+MineFactoryReloaded:stainedglass.block:4, Stained Glass (Yellow)
+MineFactoryReloaded:stainedglass.block:5, Stained Glass (Lime)
+MineFactoryReloaded:stainedglass.block:6, Stained Glass (Pink)
+MineFactoryReloaded:stainedglass.block:7, Stained Glass (Gray)
+MineFactoryReloaded:stainedglass.block:8, Stained Glass (Light Gray)
+MineFactoryReloaded:stainedglass.block:9, Stained Glass (Cyan)
+MineFactoryReloaded:stainedglass.block:10, Stained Glass (Purple)
+MineFactoryReloaded:stainedglass.block:11, Stained Glass (Blue)
+MineFactoryReloaded:stainedglass.block:12, Stained Glass (Brown)
+MineFactoryReloaded:stainedglass.block:13, Stained Glass (Green)
+MineFactoryReloaded:stainedglass.block:14, Stained Glass (Red)
+MineFactoryReloaded:stainedglass.block:15, Stained Glass (Black)
+MineFactoryReloaded:stainedglass.pane:0, Stained Glass Pane (White)
+MineFactoryReloaded:stainedglass.pane:1, Stained Glass Pane (Orange)
+MineFactoryReloaded:stainedglass.pane:2, Stained Glass Pane (Magenta)
+MineFactoryReloaded:stainedglass.pane:3, Stained Glass Pane (Light Blue)
+MineFactoryReloaded:stainedglass.pane:4, Stained Glass Pane (Yellow)
+MineFactoryReloaded:stainedglass.pane:5, Stained Glass Pane (Lime)
+MineFactoryReloaded:stainedglass.pane:6, Stained Glass Pane (Pink)
+MineFactoryReloaded:stainedglass.pane:7, Stained Glass Pane (Gray)
+MineFactoryReloaded:stainedglass.pane:8, Stained Glass Pane (Light Gray)
+MineFactoryReloaded:stainedglass.pane:9, Stained Glass Pane (Cyan)
+MineFactoryReloaded:stainedglass.pane:10, Stained Glass Pane (Purple)
+MineFactoryReloaded:stainedglass.pane:11, Stained Glass Pane (Blue)
+MineFactoryReloaded:stainedglass.pane:12, Stained Glass Pane (Brown)
+MineFactoryReloaded:stainedglass.pane:13, Stained Glass Pane (Green)
+MineFactoryReloaded:stainedglass.pane:14, Stained Glass Pane (Red)
+MineFactoryReloaded:stainedglass.pane:15, Stained Glass Pane (Black)
+MineFactoryReloaded:road:0, Road
+MineFactoryReloaded:road:1, Road Light
+MineFactoryReloaded:road:4, Road Light (Inverted)
+MineFactoryReloaded:plastic, Block of Plastic
+MineFactoryReloaded:brick:0, Ice Bricks
+MineFactoryReloaded:brick:1, Glowstone Bricks
+MineFactoryReloaded:brick:2, Lapis Bricks
+MineFactoryReloaded:brick:3, Obsidian Bricks
+MineFactoryReloaded:brick:4, Paved Stone Bricks
+MineFactoryReloaded:brick:5, Snow Bricks
+MineFactoryReloaded:brick:6, Large Ice Bricks
+MineFactoryReloaded:brick:7, Large Glowstone Bricks
+MineFactoryReloaded:brick:8, Large Lapis Bricks
+MineFactoryReloaded:brick:9, Large Obsidian Bricks
+MineFactoryReloaded:brick:10, Large Paved Stone Bricks
+MineFactoryReloaded:brick:11, Large Snow Bricks
+MineFactoryReloaded:brick:12, Raw Meat Block
+MineFactoryReloaded:brick:13, Cooked Meat Block
+MineFactoryReloaded:brick:14, Large Bricks
+MineFactoryReloaded:brick:15, Sugar Charcoal Block
+MineFactoryReloaded:stone:0, Smooth Blackstone
+MineFactoryReloaded:stone:1, Smooth Whitestone
+MineFactoryReloaded:stone:2, Cobble Blackstone
+MineFactoryReloaded:stone:3, Cobble Whitestone
+MineFactoryReloaded:stone:4, Large Blackstone Bricks
+MineFactoryReloaded:stone:5, Large Whitestone Bricks
+MineFactoryReloaded:stone:6, Small Blackstone Bricks
+MineFactoryReloaded:stone:7, Small Whitestone Bricks
+MineFactoryReloaded:stone:8, Blackstone Gravel
+MineFactoryReloaded:stone:9, Whitestone Gravel
+MineFactoryReloaded:stone:10, Paved Blackstone
+MineFactoryReloaded:stone:11, Paved Whitestone
+MineFactoryReloaded:pinkslime.block, Pink Slime Block
+MineFactoryReloaded:vinescaffold, Vine Scaffolding
+MineFactoryReloaded:farmland, Fertile Soil
+MineFactoryReloaded:detcord, DetCord
+MineFactoryReloaded:milk.still, Milk
+MineFactoryReloaded:sludge.still, Sludge
+MineFactoryReloaded:sewage.still, Sewage
+MineFactoryReloaded:mobessence.still, Essence
+MineFactoryReloaded:biofuel.still, BioFuel
+MineFactoryReloaded:meat.still, Meat
+MineFactoryReloaded:pinkslime.still, Pink Slime
+MineFactoryReloaded:chocolatemilk.still, Chocolate Milk
+MineFactoryReloaded:mushroomsoup.still, Mushroom Soup
+MineFactoryReloaded:steam.still, Steam
 EnderIO:blockStirlingGenerator, Stirling Generator
 EnderIO:blockCombustionGenerator, Combustion Generator
 EnderIO:blockZombieGenerator, Zombie Generator
@@ -6250,6 +6408,40 @@ ExtraTiC:moltenConstantan, Molten Constantan
 ExtraTiC:blockFunStuff:0, Fairy Block
 ExtraTiC:blockFunStuff:1, Pokefennium Block
 ExtraTiC:blockFunStuff:2, RedAurum Block
+Steamcraft:steamcraftOre:0, Copper Ore
+Steamcraft:steamcraftOre:1, Zinc Ore
+Steamcraft:steamcraftOre:2, Poor Zinc Ore
+Steamcraft:blockBrass, Block of Brass
+Steamcraft:blockZinc, Block of Zinc
+Steamcraft:blockCopper, Block of Copper
+Steamcraft:crucible, Crucible
+Steamcraft:hellCrucible, Nether Crucible
+Steamcraft:mold, Mold
+Steamcraft:carving, Carving Table
+Steamcraft:boiler, Boiler
+Steamcraft:boilerOn, Boiler
+Steamcraft:flashBoiler, Flash Boiler Component
+Steamcraft:pipe, Pipe
+Steamcraft:valvePipe, Valve Pipe
+Steamcraft:steamTank:0, Steam Tank
+Steamcraft:steamTank:1, Creative Steam Tank
+Steamcraft:meter, Steam Gauge
+Steamcraft:ruptureDisc:0, Rupture Disc
+Steamcraft:horn, Steam Whistle
+Steamcraft:fluidSteamConverter, Pressure Converter
+Steamcraft:pump, Archimedes Screw
+Steamcraft:smasher, Rock Smasher
+Steamcraft:dummy, tile.steamcraft:dummy.name
+Steamcraft:heater, Steam Heater
+Steamcraft:chargingPad, Filling Pad
+Steamcraft:charger, Steam Filler
+Steamcraft:hammer, Steam Hammer
+Steamcraft:itemMortar, Item Mortar
+Steamcraft:thumper, Thumper
+Steamcraft:thumperDummy, tile.steamcraft:thumperDummy.name
+Steamcraft:fan, Fan
+Steamcraft:vacuum, Vacuum
+Steamcraft:engineering, Engineering Table
 GalacticraftCore:tile.landingPad:0, Rocket Launch Pad
 GalacticraftCore:tile.landingPad:1, Buggy Fueling Pad
 GalacticraftCore:tile.landingPadFull, Rocket Launch Pad
@@ -6941,6 +7133,18 @@ cfm:showerheadon, tile.showerheadon.name
 cfm:bin, tile.bin.name
 cfm:present, tile.present.name
 cfm:tree, tile.tree.name
+minecraft:record_13, Music Disc
+minecraft:record_cat, Music Disc
+minecraft:record_blocks, Music Disc
+minecraft:record_chirp, Music Disc
+minecraft:record_far, Music Disc
+minecraft:record_mall, Music Disc
+minecraft:record_mellohi, Music Disc
+minecraft:record_stal, Music Disc
+minecraft:record_strad, Music Disc
+minecraft:record_ward, Music Disc
+minecraft:record_11, Music Disc
+minecraft:record_wait, Music Disc
 cfm:toaster, tile.toaster.name
 cfm:microwave, tile.microwave.name
 cfm:washingmachine, tile.washingmachine.name
@@ -7072,18 +7276,6 @@ secretroomsmod:CamoDummy, tile.CamoDummy.name
 secretroomsmod:SecretTrapDoor, Secret TrapDoor
 secretroomsmod:SecretWoodenDoorBlock, Secret Wooden Door
 secretroomsmod:SecretIronDoorBlock, Secret Iron Door
-minecraft:record_13, Music Disc
-minecraft:record_cat, Music Disc
-minecraft:record_blocks, Music Disc
-minecraft:record_chirp, Music Disc
-minecraft:record_far, Music Disc
-minecraft:record_mall, Music Disc
-minecraft:record_mellohi, Music Disc
-minecraft:record_stal, Music Disc
-minecraft:record_strad, Music Disc
-minecraft:record_ward, Music Disc
-minecraft:record_11, Music Disc
-minecraft:record_wait, Music Disc
 secretroomsmod:GhostBlock, Ghost Block
 secretroomsmod:SecretCamoLever, Secret lever
 secretroomsmod:SecretCamoRedstone, Secret Redstone
@@ -7845,9 +8037,6 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Emerald Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Dark Lapis Lazuli Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Firestone Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Poor Iron Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Poor Gold Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Poor Copper Ore
-appliedenergistics2:item.ItemFacade:0, Cable Facade - Poor Tin Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Poor Lead Ore
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Twilight Oak Wood
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Canopy Tree Wood
@@ -8961,6 +9150,14 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - tEmPoRAl oRe
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tEmPoRAl sNaD
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tEmPoRAl lOg
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tEmPoRAl blOCk
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Factory Machine Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Rubber Wood
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Stained Glass (White)
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Road
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Plastic
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Ice Bricks
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Smooth Blackstone
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Reinforced Obsidian
 appliedenergistics2:item.ItemFacade:0, Cable Facade - tile.blockConduitFacade.name
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Electrical Steel Block
@@ -9485,6 +9682,13 @@ appliedenergistics2:item.ItemFacade:0, Cable Facade - Compressed Salt Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Fairy Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Pokefennium Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - RedAurum Block
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Zinc Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Poor Zinc Ore
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Brass
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Zinc
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Block of Copper
+appliedenergistics2:item.ItemFacade:0, Cable Facade - Carving Table
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Decoration Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Tin Decoration Block
 appliedenergistics2:item.ItemFacade:0, Cable Facade - Copper Ore
@@ -10035,59 +10239,59 @@ AncientWarfareStructure:construction_tool_lakes, Lake Construction Tool
 AncientWarfareStructure:block_info_clicker, Block Info Tool
 Baubles:Ring:0, Miner's Ring
 Artifacts:artifact:0, Artifact
-Artifacts:artifact:0, Repairing Diamond Amulet of Quicksand
-Artifacts:artifact:0, Fragmenting Gold Wand of Hermes
-Artifacts:artifact:0, Excavator's Gold Dagger of Renew
-Artifacts:artifact:0, Oxygenated Gold Staff of Incineration
-Artifacts:artifact:0, Miner's Iron Ring of Fresh Air
-Artifacts:artifact:0, Repairing Gold Ring of Healing
-Artifacts:artifact:0, Miner's Gold Figurine of Movement
-Artifacts:artifact:0, Flaming Stone Amulet of Renew
+Artifacts:artifact:0, Jumpy Stone Wand of Hermes
+Artifacts:artifact:0, Harvesting Gold Wand of Repair
+Artifacts:artifact:0, Aerated Iron Figurine of Seeing
+Artifacts:artifact:0, Armored Gold Staff of Explosions
+Artifacts:artifact:0, Sniping Gold Amulet of Repair
+Artifacts:artifact:0, Recharging Gold Sword of Light
+Artifacts:artifact:0, Stone Amulet of Hermes
+Artifacts:artifact:0, Baker's Stone Wand of Healing
 Artifacts:artifact_leather_chestplate:0, Artifact Leather Armor
-Artifacts:artifact_leather_chestplate:0, Quick Leather Helm of Darkvision
-Artifacts:artifact_leather_chestplate:0, Well Fed Leather Boots of Healing
-Artifacts:artifact_leather_chestplate:0, Sensitive Leather Pants of Hermes
-Artifacts:artifact_leather_chestplate:0, Regenerative Leather Helm of Darkvision
-Artifacts:artifact_leather_chestplate:0, Heavy Leather Boots of Seeing
-Artifacts:artifact_leather_chestplate:0, Leather Boots of Stability
-Artifacts:artifact_leather_chestplate:0, Porky Leather Helm of Breathing
-Artifacts:artifact_leather_chestplate:0, Shielding Leather Helm of Darkvision
+Artifacts:artifact_leather_chestplate:0, Protection Heavy Leather Pants of Hermes
+Artifacts:artifact_leather_chestplate:0, Unbreaking Obscured Leather Helm
+Artifacts:artifact_leather_chestplate:0, Hidden Leather Boots
+Artifacts:artifact_leather_chestplate:0, Porky Leather Helm of Regeneration
+Artifacts:artifact_leather_chestplate:0, Sighted Leather Chestplate of Lazarus
+Artifacts:artifact_leather_chestplate:0, Projectile Protection Reinvigorating Leather Chestplate of Saturation
+Artifacts:artifact_leather_chestplate:0, Rejuvenating Leather Pants of Healing
+Artifacts:artifact_leather_chestplate:0, Leather Pants of Leaping
 Artifacts:artifact_chainmail_chestplate:0, Artifact Chainmail Armor
-Artifacts:artifact_chainmail_chestplate:0, Well Fed Chain Helm
-Artifacts:artifact_chainmail_chestplate:0, Swift Chain Boots of Fresh Air
-Artifacts:artifact_chainmail_chestplate:0, Stable Chain Helm of Repair
-Artifacts:artifact_chainmail_chestplate:0, Regenerative Chain Boots of Repair
-Artifacts:artifact_chainmail_chestplate:0, Protection Refreshing Chain Pants
-Artifacts:artifact_chainmail_chestplate:0, Sturdy Chain Pants
-Artifacts:artifact_chainmail_chestplate:0, Unstable Heavy Chain Pants
-Artifacts:artifact_chainmail_chestplate:0, Hardy Chain Boots of Renew
+Artifacts:artifact_chainmail_chestplate:0, Chain Pants of Toughness
+Artifacts:artifact_chainmail_chestplate:0, Bouncing Chain Pants of Healing
+Artifacts:artifact_chainmail_chestplate:0, Hidden Chain Helm of Stability
+Artifacts:artifact_chainmail_chestplate:0, Regenerative Chain Helm of Finding
+Artifacts:artifact_chainmail_chestplate:0, Breathy Chain Chestplate of Armor
+Artifacts:artifact_chainmail_chestplate:0, Recharging Chain Boots
+Artifacts:artifact_chainmail_chestplate:0, Projectile Protection Obscured Chain Helm
+Artifacts:artifact_chainmail_chestplate:0, Quick Chain Pants
 Artifacts:artifact_iron_chestplate:0, Artifact Iron Armor
-Artifacts:artifact_iron_chestplate:0, Regenerative Iron Helm of Healing
-Artifacts:artifact_iron_chestplate:0, Sturdy Iron Pants
-Artifacts:artifact_iron_chestplate:0, Bright Iron Boots of Stability
-Artifacts:artifact_iron_chestplate:0, Shanked Iron Helm
-Artifacts:artifact_iron_chestplate:0, Well Fed Iron Boots of Finding
-Artifacts:artifact_iron_chestplate:0, Heavy Iron Helm of the Sun
-Artifacts:artifact_iron_chestplate:0, Hardy Iron Boots
-Artifacts:artifact_iron_chestplate:0, Jumpy Iron Boots of Repair
+Artifacts:artifact_iron_chestplate:0, Reinvigorating Iron Helm
+Artifacts:artifact_iron_chestplate:0, Sighted Iron Pants of Repair
+Artifacts:artifact_iron_chestplate:0, Repairing Iron Pants
+Artifacts:artifact_iron_chestplate:0, Healing Iron Helm of the Sun
+Artifacts:artifact_iron_chestplate:0, Bouncing Iron Pants
+Artifacts:artifact_iron_chestplate:0, Heavy Iron Pants of Repair
+Artifacts:artifact_iron_chestplate:0, Healing Iron Pants of Saturation
+Artifacts:artifact_iron_chestplate:0, Refreshing Iron Chestplate of Healing
 Artifacts:artifact_golden_chestplate:0, Artifact Golden Armor
-Artifacts:artifact_golden_chestplate:0, Repairing Gold Pants of Health
-Artifacts:artifact_golden_chestplate:0, Bright Gold Helm of Hermes
-Artifacts:artifact_golden_chestplate:0, Gold Helm of Light
-Artifacts:artifact_golden_chestplate:0, Regenerative Gold Helm of Health
-Artifacts:artifact_golden_chestplate:0, Gold Pants of Movement
-Artifacts:artifact_golden_chestplate:0, Shielding Gold Chestplate of Repair
-Artifacts:artifact_golden_chestplate:0, Refreshing Gold Helm of Regeneration
-Artifacts:artifact_golden_chestplate:0, Rejuvenating Gold Pants of Regeneration
+Artifacts:artifact_golden_chestplate:0, Oxygenated Gold Chestplate
+Artifacts:artifact_golden_chestplate:0, Bouncing Gold Pants
+Artifacts:artifact_golden_chestplate:0, Regenerative Gold Helm
+Artifacts:artifact_golden_chestplate:0, Healing Gold Pants
+Artifacts:artifact_golden_chestplate:0, Floating Gold Pants
+Artifacts:artifact_golden_chestplate:0, Stable Gold Chestplate of Noms
+Artifacts:artifact_golden_chestplate:0, Regenerative Gold Boots of Healing
+Artifacts:artifact_golden_chestplate:0, Hardy Gold Chestplate
 Artifacts:artifact_diamond_chestplate:0, Artifact Diamond Armor
-Artifacts:artifact_diamond_chestplate:0, Heavy Diamond Chestplate
-Artifacts:artifact_diamond_chestplate:0, Porky Diamond Helm
-Artifacts:artifact_diamond_chestplate:0, Swift Diamond Pants of Repair
-Artifacts:artifact_diamond_chestplate:0, Repairing Diamond Pants
-Artifacts:artifact_diamond_chestplate:0, Sighted Diamond Chestplate of Speed
-Artifacts:artifact_diamond_chestplate:0, Flim Flam Floating Diamond Pants of Toughness
-Artifacts:artifact_diamond_chestplate:0, Diamond Pants of Stability
-Artifacts:artifact_diamond_chestplate:0, Sighted Diamond Chestplate of Health
+Artifacts:artifact_diamond_chestplate:0, Heavy Diamond Boots
+Artifacts:artifact_diamond_chestplate:0, Blast Protection Regenerative Diamond Boots of Repair
+Artifacts:artifact_diamond_chestplate:0, Hidden Diamond Chestplate of Healing
+Artifacts:artifact_diamond_chestplate:0, Diamond Boots of Stability
+Artifacts:artifact_diamond_chestplate:0, Healing Diamond Boots of Rejuvenation
+Artifacts:artifact_diamond_chestplate:0, Refreshing Diamond Chestplate of Movement
+Artifacts:artifact_diamond_chestplate:0, Healing Diamond Helm of Leaping
+Artifacts:artifact_diamond_chestplate:0, Light Diamond Chestplate of Repair
 Artifacts:dust_orichalcum:0, Raw Manaesence
 Artifacts:dust_orichalcum:1, Wood infused Manaesence
 Artifacts:dust_orichalcum:2, Stone infused Manaesence
@@ -11019,6 +11223,23 @@ ThermalFoundation:material:1026, Blitz Rod
 ThermalFoundation:material:1027, Blitz Powder
 ThermalFoundation:material:1028, Basalz Rod
 ThermalFoundation:material:1029, Basalz Powder
+ThermalFoundation:tool.shearsWood, Wood Shears
+ThermalFoundation:tool.sickleWood, Wood Sickle
+ThermalFoundation:tool.shearsStone, Stone Shears
+ThermalFoundation:tool.fishingRodStone, Stone Fishing Rod
+ThermalFoundation:tool.sickleStone, Stone Sickle
+ThermalFoundation:tool.bowStone, Stone Reinforced Bow
+ThermalFoundation:tool.fishingRodIron, Iron Fishing Rod
+ThermalFoundation:tool.sickleIron, Iron Sickle
+ThermalFoundation:tool.bowIron, Iron Reinforced Bow
+ThermalFoundation:tool.shearsDiamond, Diamond Shears
+ThermalFoundation:tool.fishingRodDiamond, Diamond Fishing Rod
+ThermalFoundation:tool.sickleDiamond, Diamond Sickle
+ThermalFoundation:tool.bowDiamond, Diamond Reinforced Bow
+ThermalFoundation:tool.shearsGold, Gold Shears
+ThermalFoundation:tool.fishingRodGold, Gold Fishing Rod
+ThermalFoundation:tool.sickleGold, Gold Sickle
+ThermalFoundation:tool.bowGold, Gold Reinforced Bow
 ThermalFoundation:armor.helmetCopper, Copper Helmet
 ThermalFoundation:armor.plateCopper, Copper Chestplate
 ThermalFoundation:armor.legsCopper, Copper Leggings
@@ -11136,7 +11357,7 @@ ThermalFoundation:tool.shearsPlatinum, Shiny Shears
 ThermalFoundation:tool.fishingRodPlatinum, Shiny Fishing Rod
 ThermalFoundation:tool.sicklePlatinum, Shiny Sickle
 ThermalFoundation:tool.bowPlatinum, Shiny Reinforced Bow
-ThermalExpansion:wrench, item.thermalexpansion.tool.name
+ThermalExpansion:wrench:0, Crescent Hammer
 ThermalExpansion:tool.battleWrenchInvar, BattleWrench
 ThermalExpansion:igniter, item.thermalexpansion.tool.name
 ThermalExpansion:chiller, item.thermalexpansion.tool.name
@@ -12087,6 +12308,117 @@ clockworkphase:timeSandBucket, Time Sand Bucket
 clockworkphase:blandHourglass, Hourglass
 clockworkphase:temporalCoreActive, aCTiVe TEmPOraL cORe
 clockworkphase:temporalCoreSedate, sEdAte TEmPOraL cORe
+MineFactoryReloaded:hammer, Precision Sledgehammer
+MineFactoryReloaded:plastic.boots, Plastic Boots
+MineFactoryReloaded:rubber.raw, Raw Rubber
+MineFactoryReloaded:rubber.bar, Rubber Bar
+MineFactoryReloaded:plastic.raw, Raw Plastic
+MineFactoryReloaded:plastic.sheet, Plastic Sheets
+MineFactoryReloaded:plastic.helm, Plastic Helmet
+MineFactoryReloaded:plastic.chest, Plastic Breastplate
+MineFactoryReloaded:plastic.legs, Plastic Leggings
+MineFactoryReloaded:glass.helm, Sunglasses
+MineFactoryReloaded:upgrade.radius:0, Upgrade (Lapis)
+MineFactoryReloaded:upgrade.radius:1, Upgrade (Tin)
+MineFactoryReloaded:upgrade.radius:2, Upgrade (Iron)
+MineFactoryReloaded:upgrade.radius:3, Upgrade (Copper)
+MineFactoryReloaded:upgrade.radius:4, Upgrade (Bronze)
+MineFactoryReloaded:upgrade.radius:5, Upgrade (Silver)
+MineFactoryReloaded:upgrade.radius:6, Upgrade (Gold)
+MineFactoryReloaded:upgrade.radius:7, Upgrade (Quartz)
+MineFactoryReloaded:upgrade.radius:8, Upgrade (Diamond)
+MineFactoryReloaded:upgrade.radius:9, Upgrade (Platinum)
+MineFactoryReloaded:upgrade.radius:10, Upgrade (Emerald)
+MineFactoryReloaded:upgrade.radius:11, Upgrade (Cobble)
+MineFactoryReloaded:rednet.meter:0, RedNet Meter
+MineFactoryReloaded:rednet.meter:1, RedNet Multimeter
+MineFactoryReloaded:rednet.meter:2, Debugger
+MineFactoryReloaded:rednet.memorycard, PRC Memory Card
+MineFactoryReloaded:upgrade.logic:0, PRC LX-100 Logic Expansion Card
+MineFactoryReloaded:upgrade.logic:1, PRC LX-300 Logic Expansion Card
+MineFactoryReloaded:upgrade.logic:2, PRC LX-500 Logic Expansion Card
+MineFactoryReloaded:meat.ingot.raw, Raw Meat Ingot
+MineFactoryReloaded:meat.ingot.cooked, Cooked Meat Ingot
+MineFactoryReloaded:meat.nugget.raw, Raw "Meat" Nugget
+MineFactoryReloaded:meat.nugget.cooked, Cooked "Meat" Nugget
+MineFactoryReloaded:pinkslime:0, Pink Slimeball
+MineFactoryReloaded:pinkslime:1, Pink Slime Crystal
+MineFactoryReloaded:syringe.empty, Empty Syringe
+MineFactoryReloaded:syringe.health, Health Syringe
+MineFactoryReloaded:syringe.growth, Growth Syringe
+MineFactoryReloaded:syringe.zombie, Zombie Syringe
+MineFactoryReloaded:syringe.slime, Slime Embiggening Syringe
+MineFactoryReloaded:syringe.cure, De-Zombification Syringe
+MineFactoryReloaded:safarinet.launcher, Safari Net Launcher
+MineFactoryReloaded:safarinet.reusable, Safari Net (Reusable)
+MineFactoryReloaded:safarinet.singleuse, Safari Net (Single-Use)
+MineFactoryReloaded:safarinet.jailer, Jailer's Safari Net
+MineFactoryReloaded:safarinet.jailer.fancy, Golden Jailer's Safari Net
+MineFactoryReloaded:portaspawner, PortaSpawner
+MineFactoryReloaded:xpextractor, XP Extractor
+MineFactoryReloaded:straw, Straw
+MineFactoryReloaded:milkbottle, Milk Bottle
+MineFactoryReloaded:plastic.cup:0, Plastic Cup
+MineFactoryReloaded:plastic.bag, Plastic Bag
+MineFactoryReloaded:sugarcharcoal, Sugar Charcoal
+MineFactoryReloaded:fertilizer, Industrial Fertilizer
+MineFactoryReloaded:ceramicdye:0, Ceramic Dye (White)
+MineFactoryReloaded:ceramicdye:1, Ceramic Dye (Orange)
+MineFactoryReloaded:ceramicdye:2, Ceramic Dye (Magenta)
+MineFactoryReloaded:ceramicdye:3, Ceramic Dye (Light Blue)
+MineFactoryReloaded:ceramicdye:4, Ceramic Dye (Yellow)
+MineFactoryReloaded:ceramicdye:5, Ceramic Dye (Lime)
+MineFactoryReloaded:ceramicdye:6, Ceramic Dye (Pink)
+MineFactoryReloaded:ceramicdye:7, Ceramic Dye (Gray)
+MineFactoryReloaded:ceramicdye:8, Ceramic Dye (Light Gray)
+MineFactoryReloaded:ceramicdye:9, Ceramic Dye (Cyan)
+MineFactoryReloaded:ceramicdye:10, Ceramic Dye (Purple)
+MineFactoryReloaded:ceramicdye:11, Ceramic Dye (Blue)
+MineFactoryReloaded:ceramicdye:12, Ceramic Dye (Brown)
+MineFactoryReloaded:ceramicdye:13, Ceramic Dye (Green)
+MineFactoryReloaded:ceramicdye:14, Ceramic Dye (Red)
+MineFactoryReloaded:ceramicdye:15, Ceramic Dye (Black)
+MineFactoryReloaded:laserfocus:0, Laser Focus (White)
+MineFactoryReloaded:laserfocus:1, Laser Focus (Orange)
+MineFactoryReloaded:laserfocus:2, Laser Focus (Magenta)
+MineFactoryReloaded:laserfocus:3, Laser Focus (Light Blue)
+MineFactoryReloaded:laserfocus:4, Laser Focus (Yellow)
+MineFactoryReloaded:laserfocus:5, Laser Focus (Lime)
+MineFactoryReloaded:laserfocus:6, Laser Focus (Pink)
+MineFactoryReloaded:laserfocus:7, Laser Focus (Gray)
+MineFactoryReloaded:laserfocus:8, Laser Focus (Light Gray)
+MineFactoryReloaded:laserfocus:9, Laser Focus (Cyan)
+MineFactoryReloaded:laserfocus:10, Laser Focus (Purple)
+MineFactoryReloaded:laserfocus:11, Laser Focus (Blue)
+MineFactoryReloaded:laserfocus:12, Laser Focus (Brown)
+MineFactoryReloaded:laserfocus:13, Laser Focus (Green)
+MineFactoryReloaded:laserfocus:14, Laser Focus (Red)
+MineFactoryReloaded:laserfocus:15, Laser Focus (Black)
+MineFactoryReloaded:record.blank, Blank Record
+MineFactoryReloaded:spyglass, Spyglass
+MineFactoryReloaded:ruler, Ruler
+MineFactoryReloaded:fishingrod, Fishing Rod
+MineFactoryReloaded:potatolauncher, Potato Cannon
+MineFactoryReloaded:needlegun, Needlegun
+MineFactoryReloaded:needlegun.ammo.empty, Needlegun Magazine
+MineFactoryReloaded:needlegun.ammo.standard, Needlegun Ammo (Needles)
+MineFactoryReloaded:needlegun.ammo.pierce, Needlegun Ammo (Shrapnel)
+MineFactoryReloaded:needlegun.ammo.lava, Needlegun Ammo (Lava)
+MineFactoryReloaded:needlegun.ammo.sludge, Needlegun Ammo (Sludge)
+MineFactoryReloaded:needlegun.ammo.sewage, Needlegun Ammo (Sewage)
+MineFactoryReloaded:needlegun.ammo.fire, Needlegun Ammo (Fire)
+MineFactoryReloaded:needlegun.ammo.anvil, Needlegun Ammo (Anvil)
+MineFactoryReloaded:rocketlauncher, SPAMR Launcher
+MineFactoryReloaded:rocket:0, Tracking Self-Propelled Anti Material Rocket
+MineFactoryReloaded:rocket:1, Self-Propelled Anti Material Rocket
+MineFactoryReloaded:bucket.sewage, Sewage Bucket
+MineFactoryReloaded:bucket.sludge, Sludge Bucket
+MineFactoryReloaded:bucket.essence, Essence Bucket
+MineFactoryReloaded:bucket.biofuel, BioFuel Bucket
+MineFactoryReloaded:bucket.meat, Meat Bucket
+MineFactoryReloaded:bucket.pinkslime, Pink Slime Bucket
+MineFactoryReloaded:bucket.chocolatemilk, Chocolate Milk Bucket
+MineFactoryReloaded:bucket.mushroomsoup, Mushroom Soup Bucket
 EnderIO:itemCoordSelector, Coordinate Selector
 EnderIO:itemFusedQuartzFrame, Fused Quartz Frame
 EnderIO:itemConduitFacade:0, Conduit Facade
@@ -16290,6 +16622,164 @@ ExtraTiC:extra.bucket:18, Molten Ludicrite Bucket
 ExtraTiC:extra.bucket:1, Molten Fairy Bucket
 ExtraTiC:extra.bucket:12, Molten Adamantine Bucket
 ExtraTiC:extra.bucket:11, Molten Brass Bucket
+Steamcraft:book, Esteemed Innovation
+Steamcraft:spyglass, Spyglass
+Steamcraft:astrolabe, Astrolabe
+Steamcraft:canister, Item Canister
+Steamcraft:survivalist, Survivalist's Toolkit
+Steamcraft:steamcellEmpty, Empty Steam Cell
+Steamcraft:steamcellFull, Full Steam Cell
+Steamcraft:steamcellFiller, Steam Cell Filler
+Steamcraft:wrench, Pipe Wrench
+Steamcraft:smashedOre:0, Smashed Iron Ore
+Steamcraft:smashedOre:1, Smashed Gold Ore
+Steamcraft:smashedOre:2, Smashed Copper Ore
+Steamcraft:smashedOre:3, Smashed Zinc Ore
+Steamcraft:smashedOre:4, Smashed Tin Ore
+Steamcraft:smashedOre:5, Smashed Nickel Ore
+Steamcraft:smashedOre:6, Smashed Silver Ore
+Steamcraft:smashedOre:7, Smashed Lead Ore
+Steamcraft:smashedOre:8, Smashed Aluminum Ore
+Steamcraft:smashedOre:10, Smashed Cobalt Ore
+Steamcraft:smashedOre:11, Smashed Ardite Ore
+Steamcraft:smashedOre:12, Smashed Cinnabar Ore
+Steamcraft:smashedOre:13, Smashed Poor Iron Ore
+Steamcraft:smashedOre:16, Smashed Poor Zinc Ore
+Steamcraft:steamcraftCrafting:0, Brass Piston
+Steamcraft:steamcraftCrafting:1, Wooden Stock
+Steamcraft:steamcraftCrafting:2, Iron Barrel
+Steamcraft:steamcraftCrafting:3, Blunderbuss Barrel
+Steamcraft:steamcraftCrafting:4, Flintlock
+Steamcraft:steamcraftCrafting:5, Brass Turbine
+Steamcraft:musketCartridge, Musket Cartridge
+Steamcraft:musket, Flintlock Musket
+Steamcraft:pistol, Flintlock Pistol
+Steamcraft:blunderbuss, Flintlock Blunderbuss
+Steamcraft:enhancementRevolver, Revolver Chamber
+Steamcraft:enhancementAblaze, Blaze Barrel
+Steamcraft:enhancementSpeedloader, Bolt Action
+Steamcraft:enhancementSilencer, Makeshift Suppressor
+Steamcraft:enhancementRecoil, Recoil Pad
+Steamcraft:enhancementSpeedy, Breech
+Steamcraft:rocketLauncher, Rocket Launcher
+Steamcraft:enhancementFastRockets, Streamlined Barrel
+Steamcraft:enhancementAirStrike, Air Strike Conversion Kit
+Steamcraft:enhancementAmmo, Extended Magazine
+Steamcraft:rocket, Rocket
+Steamcraft:rocketConcussive, Concussive Rocket
+Steamcraft:rocketMiner, Mining Charge
+Steamcraft:exoArmorHead, Steam Exosuit Headpiece
+Steamcraft:exoArmorBody, Steam Exosuit Chestpiece
+Steamcraft:exoArmorLegs, Steam Exosuit Legpiece
+Steamcraft:exoArmorFeet, Steam Exosuit Footpiece
+Steamcraft:jetpack, Steam Jetpack
+Steamcraft:wings, Steam Wings
+Steamcraft:powerFist, Power Fist
+Steamcraft:extendoFist, Extendo Fist
+Steamcraft:thrusters, Thrusters
+Steamcraft:fallAssist, Fall Assist
+Steamcraft:jumpAssist, Leap Actuator
+Steamcraft:runAssist, Modular Accelerator
+Steamcraft:doubleJump, Pulse Nozzle
+Steamcraft:canner, Canner
+Steamcraft:pitonDeployer, Piton Deployer
+Steamcraft:stealthUpgrade, Acoustic Dampener
+Steamcraft:enderShroud, Ender Shroud
+Steamcraft:reinforcedTank, Reinforced Exosuit Tank
+Steamcraft:uberReinforcedTank, Heavily Reinforced Exosuit Tank
+Steamcraft:rebreather, Rebreather
+Steamcraft:coatingsHydrophobic, Hydrophobic Coatings
+Steamcraft:coatingsPyrophobic, Pyrophobic Coatings
+Steamcraft:anchorHeels, Anchor Heels
+Steamcraft:pistonPush, Piston Push
+Steamcraft:reloadingHolsters, Reloading Holsters
+Steamcraft:frequencyShifter, Frequency Shifter
+Steamcraft:dragonRoar, Dragon Roar
+Steamcraft:steamDrill, Steam Drill
+Steamcraft:steamAxe, Steam Saw
+Steamcraft:steamShovel, Steam Shovel
+Steamcraft:theVoid, The Void
+Steamcraft:autosmelting, Exothermic Projector
+Steamcraft:overclocker, Overclocker
+Steamcraft:bigDrill, Big Drill
+Steamcraft:battleDrill, Battle Drill
+Steamcraft:stoneGrinder, Stone Grinder
+Steamcraft:preciseCuttingHead, Precise Cutting Head
+Steamcraft:thermalDrill, Thermal Drill
+Steamcraft:drillFortune, Multiplicative Resonator
+Steamcraft:chargePlacer, Calamity Injector
+Steamcraft:drillHead, Steam Drill Head
+Steamcraft:internalProcessor, Internal Processing Unit
+Steamcraft:leafBlower, Leaf Blower
+Steamcraft:feller, Timber Chain
+Steamcraft:chainsaw, Chainsaw
+Steamcraft:forestFire, Forest Fire
+Steamcraft:cultivator, Cultivator
+Steamcraft:rotaryBlades, Rotary Blades
+Steamcraft:sifter, Sifter
+Steamcraft:backhoe, Backhoe
+Steamcraft:ingotMold, Ingot Mold
+Steamcraft:nuggetMold, Nugget Mold
+Steamcraft:plateMold, Plate Mold
+Steamcraft:blankMold, Blank Mold
+Steamcraft:steamedFish, Steamed Fish
+Steamcraft:steamedSalmon, Steamed Salmon
+Steamcraft:steamedChicken, Steamed Chicken
+Steamcraft:steamedBeef, Steamed Beef
+Steamcraft:steamedPorkchop, Steamed Porkchop
+Steamcraft:steamcraftIngot:0, Copper Ingot
+Steamcraft:steamcraftIngot:1, Zinc Ingot
+Steamcraft:steamcraftIngot:2, Brass Ingot
+Steamcraft:steamcraftIngot:3, Gilded Iron Ingot
+Steamcraft:monacle, Tinkerer's Monocle
+Steamcraft:goggles, Tinkerer's Goggles
+Steamcraft:tophatNoEmerald, Top Hat
+Steamcraft:tophat, Entrepreneur's Top Hat
+Steamcraft:steamcraftNugget:0, Copper Nugget
+Steamcraft:steamcraftNugget:1, Zinc Nugget
+Steamcraft:steamcraftNugget:2, Iron Nugget
+Steamcraft:steamcraftNugget:3, Brass Nugget
+Steamcraft:steamcraftPlate:0, Copper Plate
+Steamcraft:steamcraftPlate:1, Zinc Plate
+Steamcraft:steamcraftPlate:2, Iron Plate
+Steamcraft:steamcraftPlate:3, Gold Plate
+Steamcraft:steamcraftPlate:4, Brass Plate
+Steamcraft:steamcraftPlate:5, Thaumium Plate
+Steamcraft:steamcraftPlate:8, Fiery Plate
+Steamcraft:steamcraftPlate:9, Lead Plate
+Steamcraft:steamcraftPlate:10, Vibrant Plate
+Steamcraft:steamcraftPlate:11, Enderium Plate
+Steamcraft:steamcraftPlate:12, Gilded Iron Plate
+Steamcraft:exosuitPlate:0, Copper Exosuit Plate
+Steamcraft:exosuitPlate:1, Zinc Exosuit Plate
+Steamcraft:exosuitPlate:2, Iron Exosuit Plate
+Steamcraft:exosuitPlate:3, Gold Exosuit Plate
+Steamcraft:exosuitPlate:4, Brass Exosuit Plate
+Steamcraft:exosuitPlate:14, Gilded Iron Exosuit Plate
+Steamcraft:exosuitPlate:5, Thaumium Exosuit Plate
+Steamcraft:exosuitPlate:8, Fiery Exosuit Plate
+Steamcraft:exosuitPlate:9, Yeti Hide
+Steamcraft:exosuitPlate:11, Lead Exosuit Plate
+Steamcraft:exosuitPlate:12, Vibrant Exosuit Plate
+Steamcraft:exosuitPlate:13, Enderium Exosuit Plate
+Steamcraft:pickBrass, Brass Pickaxe
+Steamcraft:axeBrass, Brass Axe
+Steamcraft:shovelBrass, Brass Shovel
+Steamcraft:hoeBrass, Brass Hoe
+Steamcraft:swordBrass, Brass Sword
+Steamcraft:helmBrass, Brass Helmet
+Steamcraft:chestBrass, Brass Chestplate
+Steamcraft:legsBrass, Brass Leggings
+Steamcraft:feetBrass, Brass Boots
+Steamcraft:pickGildedGold, Gilded Iron Pickaxe
+Steamcraft:axeGildedGold, Gilded Iron Axe
+Steamcraft:shovelGildedGold, Gilded Iron Shovel
+Steamcraft:hoeGildedGold, Gilded Iron Hoe
+Steamcraft:swordGildedGold, Gilded Iron Sword
+Steamcraft:helmGildedGold, Gilded Iron Helmet
+Steamcraft:chestGildedGold, Gilded Iron Chestplate
+Steamcraft:legsGildedGold, Gilded Iron Leggings
+Steamcraft:feetGildedGold, Gilded Iron Boots
 GalacticraftCore:item.bucketOil, Oil Bucket
 GalacticraftCore:item.bucketFuel, Fuel Bucket
 GalacticraftCore:item.spaceship:0, Tier 1 Rocket
@@ -17187,49 +17677,12 @@ simplyjetpacks:fluxpacks:4, Resonant Flux Pack
 simplyjetpacks:fluxpacks:4, Resonant Flux Pack
 simplyjetpacks:fluxpacks:104, Resonant Flux Pack (Armored)
 simplyjetpacks:fluxpacks:104, Resonant Flux Pack (Armored)
-simplyjetpacks:jetpacksEIO:1, Conductive Iron Jetpack
-simplyjetpacks:jetpacksEIO:1, Conductive Iron Jetpack
-simplyjetpacks:jetpacksEIO:101, Conductive Iron Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:101, Conductive Iron Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:2, Electrical Steel Jetpack
-simplyjetpacks:jetpacksEIO:2, Electrical Steel Jetpack
-simplyjetpacks:jetpacksEIO:102, Electrical Steel Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:102, Electrical Steel Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:3, Energetic Jetpack
-simplyjetpacks:jetpacksEIO:3, Energetic Jetpack
-simplyjetpacks:jetpacksEIO:103, Energetic Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:103, Energetic Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:4, Vibrant Jetpack
-simplyjetpacks:jetpacksEIO:4, Vibrant Jetpack
-simplyjetpacks:jetpacksEIO:104, Vibrant Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:104, Vibrant Jetpack (Armored)
-simplyjetpacks:jetpacksEIO:5, Dark Soularium JetPlate
-simplyjetpacks:jetpacksEIO:5, Dark Soularium JetPlate
-simplyjetpacks:fluxpacksEIO:1, Basic Capacitor Pack
-simplyjetpacks:fluxpacksEIO:1, Basic Capacitor Pack
-simplyjetpacks:fluxpacksEIO:2, Double-Layer Capacitor Pack
-simplyjetpacks:fluxpacksEIO:2, Double-Layer Capacitor Pack
-simplyjetpacks:fluxpacksEIO:102, Double-Layer Capacitor Pack (Armored)
-simplyjetpacks:fluxpacksEIO:102, Double-Layer Capacitor Pack (Armored)
-simplyjetpacks:fluxpacksEIO:3, Quadruple-Layer Capacitor Pack
-simplyjetpacks:fluxpacksEIO:3, Quadruple-Layer Capacitor Pack
-simplyjetpacks:fluxpacksEIO:103, Quadruple-Layer Capacitor Pack (Armored)
-simplyjetpacks:fluxpacksEIO:103, Quadruple-Layer Capacitor Pack (Armored)
-simplyjetpacks:fluxpacksEIO:4, Octadic Capacitor Pack
-simplyjetpacks:fluxpacksEIO:4, Octadic Capacitor Pack
-simplyjetpacks:fluxpacksEIO:104, Octadic Capacitor Pack (Armored)
-simplyjetpacks:fluxpacksEIO:104, Octadic Capacitor Pack (Armored)
 simplyjetpacks:components:0, Leather Strap
 simplyjetpacks:components:11, Leadstone Thruster
 simplyjetpacks:components:12, Hardened Thruster
 simplyjetpacks:components:13, Reinforced Thruster
 simplyjetpacks:components:14, Resonant Thruster
 simplyjetpacks:components:15, Fluxed Thruster
-simplyjetpacks:components:21, Conductive Iron Thruster
-simplyjetpacks:components:22, Electrical Steel Thruster
-simplyjetpacks:components:23, Energetic Thruster
-simplyjetpacks:components:24, Vibrant Thruster
-simplyjetpacks:components:25, Dark Soularium Thruster
 simplyjetpacks:components:60, Glowstone Elevation Unit (Empty)
 simplyjetpacks:components:61, Glowstone Elevation Unit
 simplyjetpacks:components:62, Cryotheum Coolant Unit (Empty)
@@ -17240,18 +17693,10 @@ simplyjetpacks:components:66, Fluxed Electrum Nugget
 simplyjetpacks:components:67, Flux Crystal
 simplyjetpacks:components:68, Fluxed Armor Plating
 simplyjetpacks:components:69, Flux-Infused Chestplate Assembly
-simplyjetpacks:components:70, Enriched Soularium Alloy
-simplyjetpacks:components:71, Reinforced Glider Wing
-simplyjetpacks:components:72, Flight Control Unit (Empty)
-simplyjetpacks:components:73, Flight Control Unit
 simplyjetpacks:armorPlatings:1, Iron Armor Plating
 simplyjetpacks:armorPlatings:2, Bronze Armor Plating
 simplyjetpacks:armorPlatings:3, Invar Armor Plating
 simplyjetpacks:armorPlatings:4, Enderium Armor Plating
-simplyjetpacks:armorPlatings:11, Silicon Armor Plating
-simplyjetpacks:armorPlatings:12, Conductive Iron Armor Plating
-simplyjetpacks:armorPlatings:13, Electrical Steel Armor Plating
-simplyjetpacks:armorPlatings:14, Dark Steel Armor Plating
 simplyjetpacks:particleCustomizers:0, Particle Customizer (Default)
 simplyjetpacks:particleCustomizers:1, Particle Customizer (None)
 simplyjetpacks:particleCustomizers:2, Particle Customizer (Smoke Only)
