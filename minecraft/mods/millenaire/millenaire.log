@@ -718,3 +718,23 @@
 6.0.0 21-12-2016 21:49:56 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
 6.0.0 21-12-2016 21:50:08 MAJOR: null: Loading language: en_US
 6.0.0 21-12-2016 21:50:11 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 00:51:47 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 00:52:06 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 00:52:12 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 00:52:13 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 15:43:00 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 15:43:44 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 15:43:58 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 15:44:04 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 17:55:26 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 17:55:57 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 17:56:04 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 17:56:05 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 20:03:43 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 20:04:17 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 20:04:35 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 20:04:41 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 20:09:45 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 20:10:06 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 20:10:13 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 20:10:13 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name

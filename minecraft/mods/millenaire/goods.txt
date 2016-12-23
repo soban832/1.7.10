@@ -21,7 +21,7 @@ brickmould;millenaire:item.ml_brickmould;0;item.ml_brickmould.name
 bricks;minecraft:brick_block;0;Bricks
 bucketempty;minecraft:bucket;0;Bucket
 bucketlava;minecraft:lava_bucket;0;Lava Bucket
-bucketmilk;minecraft:milk_bucket;0;Milk
+bucketmilk;minecraft:milk_bucket;0;Milk Bucket
 bucketwater;minecraft:water_bucket;0;Water Bucket
 byzantineboots;millenaire:item.ml_byzantineBoots;0;item.ml_byzantineBoots.name
 byzantinehelmet;millenaire:item.ml_byzantineHelmet;0;item.ml_byzantineHelmet.name
