@@ -1,0 +1,752 @@
+6.0.0 27-09-2016 01:08:57 Starting new session. Mods: examplemod 
+6.0.0 27-09-2016 01:09:14 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 27-09-2016 01:09:20 MAJOR: null: Loading language: en_US
+6.0.0 27-09-2016 01:09:20 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 27-09-2016 01:10:44 Trying to set null block
+6.0.0 27-09-2016 01:10:44 java.lang.Exception
+	at org.millenaire.common.core.MillCommonUtilities.setBlockAndMetadata(MillCommonUtilities.java:1871)
+	at org.millenaire.common.core.MillCommonUtilities.setBlockAndMetadata(MillCommonUtilities.java:1894)
+	at org.millenaire.common.building.BuildingBlock.build(BuildingBlock.java:151)
+	at org.millenaire.common.building.BuildingPlan.build(BuildingPlan.java:1791)
+	at org.millenaire.common.building.BuildingPlanSet.buildLocation(BuildingPlanSet.java:40)
+	at org.millenaire.common.WorldGenVillage.generateVillage(WorldGenVillage.java:355)
+	at org.millenaire.common.WorldGenVillage.generateVillageAtPoint(WorldGenVillage.java:605)
+	at org.millenaire.common.WorldGenVillage.generate(WorldGenVillage.java:142)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:265)
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:130)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:153)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+6.0.0 27-09-2016 01:10:44 Exception in BuildingBlock.build():
+6.0.0 27-09-2016 01:10:44 java.lang.NullPointerException
+	at net.minecraft.world.chunk.storage.ExtendedBlockStorage.func_150818_a(SourceFile:57)
+	at net.minecraft.world.chunk.Chunk.func_150807_a(Chunk.java:595)
+	at net.minecraft.world.World.func_147465_d(World.java:451)
+	at org.millenaire.common.core.MillCommonUtilities.setBlockAndMetadata(MillCommonUtilities.java:1875)
+	at org.millenaire.common.core.MillCommonUtilities.setBlockAndMetadata(MillCommonUtilities.java:1894)
+	at org.millenaire.common.building.BuildingBlock.build(BuildingBlock.java:151)
+	at org.millenaire.common.building.BuildingPlan.build(BuildingPlan.java:1791)
+	at org.millenaire.common.building.BuildingPlanSet.buildLocation(BuildingPlanSet.java:40)
+	at org.millenaire.common.WorldGenVillage.generateVillage(WorldGenVillage.java:355)
+	at org.millenaire.common.WorldGenVillage.generateVillageAtPoint(WorldGenVillage.java:605)
+	at org.millenaire.common.WorldGenVillage.generate(WorldGenVillage.java:142)
+	at cpw.mods.fml.common.registry.GameRegistry.generateWorld(GameRegistry.java:112)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73153_a(ChunkProviderServer.java:280)
+	at fastcraft.a.d.a(F:84)
+	at fastcraft.Hooks.r(F:137)
+	at net.minecraft.world.chunk.Chunk.func_76624_a(Chunk.java:1055)
+	at net.minecraft.world.gen.ChunkProviderServer.originalLoadChunk(ChunkProviderServer.java:190)
+	at net.minecraft.world.gen.ChunkProviderServer.loadChunk(ChunkProviderServer.java:131)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73158_c(ChunkProviderServer.java:101)
+	at net.minecraft.server.MinecraftServer.func_71222_d(MinecraftServer.java:265)
+	at net.minecraft.server.integrated.IntegratedServer.func_71247_a(IntegratedServer.java:130)
+	at net.minecraft.server.integrated.IntegratedServer.func_71197_b(IntegratedServer.java:153)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:387)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+6.0.0 27-09-2016 01:10:44 Repeat exception x2: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x2: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x3: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x3: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x4: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x4: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x5: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x5: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x6: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x6: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x7: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x7: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x8: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x8: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x9: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x9: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x10: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x10: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x11: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x11: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x12: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x12: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x13: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x13: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x14: null
+6.0.0 27-09-2016 01:10:44 Repeat exception x14: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x15: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x15: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x16: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x16: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x17: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x17: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x18: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x18: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x19: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x19: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x20: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x20: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x21: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x21: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x22: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x22: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x23: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x23: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x24: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x24: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x25: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x25: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x26: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x26: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x27: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x27: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x28: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x28: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x29: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x29: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x30: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x30: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x31: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x31: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x32: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x32: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x33: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x33: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x34: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x34: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x35: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x35: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x36: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x36: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x37: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x37: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x38: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x38: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x39: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x39: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x40: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x40: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x41: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x41: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x42: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x42: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x43: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x43: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x44: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x44: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x45: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x45: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x46: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x46: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x47: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x47: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x48: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x48: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x49: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x49: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x50: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x50: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x51: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x51: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x52: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x52: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x53: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x53: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x54: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x54: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x55: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x55: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x56: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x56: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x57: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x57: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x58: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x58: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x59: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x59: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x60: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x60: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x61: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x61: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x62: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x62: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x63: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x63: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x64: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x64: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x65: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x65: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x66: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x66: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x67: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x67: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x68: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x68: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x69: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x69: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x70: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x70: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x71: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x71: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x72: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x72: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x73: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x73: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x74: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x74: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x75: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x75: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x76: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x76: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x77: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x77: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x78: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x78: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x79: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x79: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x80: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x80: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x81: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x81: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x82: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x82: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x83: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x83: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x84: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x84: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x85: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x85: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x86: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x86: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x87: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x87: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x88: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x88: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x89: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x89: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x90: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x90: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x91: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x91: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x92: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x92: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x93: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x93: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x94: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x94: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x95: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x95: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x96: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x96: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x97: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x97: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x98: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x98: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x99: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x99: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x100: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x100: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x101: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x101: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x102: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x102: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x103: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x103: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x104: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x104: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x105: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x105: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x106: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x106: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x107: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x107: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x108: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x108: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x109: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x109: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x110: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x110: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x111: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x111: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x112: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x112: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x113: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x113: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x114: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x114: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x115: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x115: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x116: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x116: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x117: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x117: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x118: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x118: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x119: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x119: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x120: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x120: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x121: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x121: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x122: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x122: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x123: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x123: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x124: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x124: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x125: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x125: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x126: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x126: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x127: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x127: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x128: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x128: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x129: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x129: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x130: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x130: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x131: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x131: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x132: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x132: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x133: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x133: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x134: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x134: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x135: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x135: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x136: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x136: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x137: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x137: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x138: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x138: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x139: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x139: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x140: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x140: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x141: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x141: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x142: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x142: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x143: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x143: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x144: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x144: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x145: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x145: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x146: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x146: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x147: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x147: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x148: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x148: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x149: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x149: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x150: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x150: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x151: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x151: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x152: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x152: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x153: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x153: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x154: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x154: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x155: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x155: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x156: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x156: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x157: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x157: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x158: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x158: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x159: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x159: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x160: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x160: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x161: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x161: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x162: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x162: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x163: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x163: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x164: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x164: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x165: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x165: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x166: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x166: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x167: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x167: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x168: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x168: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x169: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x169: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x170: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x170: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x171: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x171: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x172: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x172: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x173: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x173: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x174: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x174: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x175: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x175: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x176: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x176: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x177: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x177: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x178: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x178: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x179: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x179: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x180: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x180: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x181: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x181: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x182: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x182: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x183: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x183: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x184: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x184: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x185: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x185: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x186: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x186: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x187: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x187: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x188: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x188: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x189: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x189: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x190: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x190: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x191: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x191: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x192: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x192: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x193: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x193: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x194: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x194: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x195: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x195: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x196: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x196: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x197: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x197: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x198: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x198: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x199: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x199: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x200: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x200: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x201: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x201: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x202: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x202: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x203: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x203: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x204: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x204: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x205: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x205: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x206: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x206: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x207: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x207: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x208: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x208: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x209: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x209: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x210: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x210: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x211: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x211: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x212: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x212: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x213: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x213: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x214: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x214: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x215: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x215: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x216: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x216: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x217: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x217: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x218: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x218: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x219: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x219: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x220: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x220: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x221: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x221: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x222: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x222: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x223: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x223: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x224: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x224: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x225: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x225: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x226: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x226: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x227: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x227: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x228: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x228: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x229: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x229: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x230: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x230: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x231: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x231: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x232: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x232: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x233: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x233: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x234: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x234: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x235: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x235: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x236: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x236: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x237: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x237: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x238: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x238: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x239: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x239: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x240: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x240: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x241: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x241: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x242: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x242: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x243: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x243: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x244: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x244: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x245: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x245: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x246: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x246: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x247: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x247: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x248: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x248: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x249: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x249: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x250: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x250: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x251: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x251: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x252: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x252: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x253: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x253: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x254: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x254: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x255: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x255: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x256: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x256: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x257: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x257: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x258: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x258: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x259: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x259: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x260: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x260: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x261: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x261: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x262: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x262: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x263: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x263: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x264: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x264: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x265: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x265: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x266: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x266: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x267: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x267: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x268: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x268: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x269: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x269: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x270: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x270: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x271: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x271: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x272: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x272: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x273: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x273: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x274: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x274: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x275: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x275: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x276: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x276: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x277: null
+6.0.0 27-09-2016 01:14:51 Repeat exception x277: null
+6.0.0 27-09-2016 01:25:24 Starting new session. Mods: examplemod 
+6.0.0 27-09-2016 01:25:40 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 27-09-2016 01:25:45 MAJOR: null: Loading language: en_US
+6.0.0 27-09-2016 01:25:46 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 27-09-2016 01:26:30 Exception, printing stack:
+6.0.0 27-09-2016 01:26:30 java.io.FileNotFoundException: C:\Users\Dickface\Desktop\MultiMC\instances\Survival Is Not An Option 1.0\minecraft\saves\New World-\millenaire\buildings\180_64_443_temp.gz (The process cannot access the file because it is being used by another process)
+	at java.io.FileOutputStream.open0(Native Method)
+	at java.io.FileOutputStream.open(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at java.io.FileOutputStream.<init>(Unknown Source)
+	at org.millenaire.common.building.Building$SaveWorker.run(Building.java:320)
+
+6.0.0 14-10-2016 11:02:18 Starting new session. Mods: examplemod 
+6.0.0 14-10-2016 11:02:36 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 14-10-2016 11:02:46 MAJOR: null: Loading language: en_US
+6.0.0 14-10-2016 11:02:52 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 04-12-2016 22:47:32 Starting new session. Mods: examplemod 
+6.0.0 04-12-2016 22:47:50 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 04-12-2016 22:48:01 MAJOR: null: Loading language: en_US
+6.0.0 04-12-2016 22:48:06 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 04-12-2016 23:14:00 Starting new session. Mods: examplemod 
+6.0.0 04-12-2016 23:14:23 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 04-12-2016 23:14:31 MAJOR: null: Loading language: en_US
+6.0.0 04-12-2016 23:14:32 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 04-12-2016 23:17:52 Starting new session. Mods: examplemod 
+6.0.0 04-12-2016 23:18:10 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 04-12-2016 23:18:17 MAJOR: null: Loading language: en_US
+6.0.0 04-12-2016 23:18:17 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 04-12-2016 23:35:35 Starting new session. Mods: examplemod 
+6.0.0 04-12-2016 23:35:56 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 04-12-2016 23:36:02 MAJOR: null: Loading language: en_US
+6.0.0 04-12-2016 23:36:03 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 06-12-2016 02:13:55 Starting new session. Mods: examplemod 
+6.0.0 06-12-2016 02:14:19 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 06-12-2016 02:14:25 MAJOR: null: Loading language: en_US
+6.0.0 06-12-2016 02:14:25 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 06-12-2016 02:26:16 Starting new session. Mods: examplemod 
+6.0.0 06-12-2016 02:26:29 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 06-12-2016 02:26:36 MAJOR: null: Loading language: en_US
+6.0.0 06-12-2016 02:26:36 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 06-12-2016 13:59:22 Starting new session. Mods: examplemod 
+6.0.0 06-12-2016 13:59:56 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 06-12-2016 14:00:21 MAJOR: null: Loading language: en_US
+6.0.0 06-12-2016 14:00:31 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 06-12-2016 14:11:28 Starting new session. Mods: examplemod 
+6.0.0 06-12-2016 14:11:55 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 06-12-2016 14:12:06 MAJOR: null: Loading language: en_US
+6.0.0 06-12-2016 14:12:07 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 06-12-2016 14:24:00 Starting new session. Mods: examplemod 
+6.0.0 06-12-2016 14:24:18 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 06-12-2016 14:24:25 MAJOR: null: Loading language: en_US
+6.0.0 06-12-2016 14:24:26 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 06-12-2016 14:30:48 Starting new session. Mods: examplemod 
+6.0.0 06-12-2016 14:31:06 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 06-12-2016 14:31:13 MAJOR: null: Loading language: en_US
+6.0.0 06-12-2016 14:31:14 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 07-12-2016 00:04:01 Starting new session. Mods: examplemod 
+6.0.0 07-12-2016 00:04:17 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 07-12-2016 00:04:25 MAJOR: null: Loading language: en_US
+6.0.0 07-12-2016 00:04:25 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 09-12-2016 02:23:28 Starting new session. Mods: examplemod 
+6.0.0 09-12-2016 02:23:36 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 09-12-2016 02:23:40 MAJOR: null: Loading language: en_US
+6.0.0 09-12-2016 02:23:41 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 13-12-2016 01:59:59 Starting new session. Mods: examplemod 
+6.0.0 13-12-2016 02:00:07 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 13-12-2016 02:00:11 MAJOR: null: Loading language: en_US
+6.0.0 13-12-2016 02:00:11 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 13-12-2016 23:10:34 Starting new session. Mods: examplemod 
+6.0.0 13-12-2016 23:10:42 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 13-12-2016 23:10:46 MAJOR: null: Loading language: en_US
+6.0.0 13-12-2016 23:10:46 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 14-12-2016 03:51:33 Starting new session. Mods: examplemod 
+6.0.0 15-12-2016 00:18:33 Starting new session. Mods: examplemod 
+6.0.0 15-12-2016 00:18:41 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 15-12-2016 00:18:46 MAJOR: null: Loading language: en_US
+6.0.0 15-12-2016 00:18:46 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 16-12-2016 00:29:05 Starting new session. Mods: examplemod 
+6.0.0 16-12-2016 00:29:13 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 16-12-2016 00:29:17 MAJOR: null: Loading language: en_US
+6.0.0 16-12-2016 00:29:18 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 17-12-2016 00:41:58 Starting new session. Mods: examplemod 
+6.0.0 17-12-2016 00:42:06 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 17-12-2016 00:42:11 MAJOR: null: Loading language: en_US
+6.0.0 17-12-2016 00:42:11 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 17-12-2016 00:56:51 Starting new session. Mods: examplemod 
+6.0.0 17-12-2016 00:56:59 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 17-12-2016 00:57:03 MAJOR: null: Loading language: en_US
+6.0.0 17-12-2016 00:57:04 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 20-12-2016 01:49:11 Starting new session. Mods: examplemod 
+6.0.0 20-12-2016 01:49:20 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 20-12-2016 01:49:24 MAJOR: null: Loading language: en_US
+6.0.0 20-12-2016 01:49:24 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 20-12-2016 22:15:39 Starting new session. Mods: examplemod 
+6.0.0 20-12-2016 22:15:48 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 20-12-2016 22:15:52 MAJOR: null: Loading language: en_US
+6.0.0 20-12-2016 22:15:53 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 21-12-2016 16:48:44 Starting new session. Mods: examplemod 
+6.0.0 21-12-2016 16:48:57 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 21-12-2016 16:49:03 MAJOR: null: Loading language: en_US
+6.0.0 21-12-2016 16:49:04 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 21-12-2016 18:24:03 Starting new session. Mods: examplemod 
+6.0.0 21-12-2016 18:24:30 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 21-12-2016 18:24:38 MAJOR: null: Loading language: en_US
+6.0.0 21-12-2016 18:24:38 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 21-12-2016 18:50:16 Starting new session. Mods: examplemod 
+6.0.0 21-12-2016 18:50:44 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 21-12-2016 18:50:52 MAJOR: null: Loading language: en_US
+6.0.0 21-12-2016 18:50:52 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 21-12-2016 21:49:28 Starting new session. Mods: examplemod 
+6.0.0 21-12-2016 21:49:56 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 21-12-2016 21:50:08 MAJOR: null: Loading language: en_US
+6.0.0 21-12-2016 21:50:11 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 00:51:47 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 00:52:06 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 00:52:12 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 00:52:13 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 15:43:00 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 15:43:44 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 15:43:58 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 15:44:04 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 17:55:26 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 17:55:57 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 17:56:04 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 17:56:05 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 20:03:43 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 20:04:17 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 20:04:35 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 20:04:41 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 20:09:45 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 20:10:06 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 20:10:13 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 20:10:13 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 20:20:00 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 20:20:22 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 20:20:29 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 20:20:29 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 20:36:45 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 20:37:15 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 20:37:22 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 20:37:23 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
+6.0.0 22-12-2016 22:54:38 Starting new session. Mods: examplemod 
+6.0.0 22-12-2016 22:55:09 ERROR: null: Tried to create good from block with no item: saddle;73;0;Selle
+6.0.0 22-12-2016 22:55:15 MAJOR: null: Loading language: en_US
+6.0.0 22-12-2016 22:55:15 MAJOR: null: Language loaded: en_US. Wand name: Wand of Summoning Wand invitem name: item.ml_villageWand.name
